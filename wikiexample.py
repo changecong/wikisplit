@@ -15,12 +15,12 @@ pages = cat.getAllMembers()
 i = 0
 for page in pages:
     
-    if (i == 97):
+    if (i == 0):
         print i
         content = page.getWikiText()
         split = wikisplit.Split(content)
         print split.book()
         print split.text()
     i = i + 1
-    if (i > 100):
+    if (i > 0):
         break
