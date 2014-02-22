@@ -6,7 +6,7 @@
 ## Version:       
 ## Author:        Zhicong Chen <zhicong.chen@changecong.com>
 ## Created at:    Fri Feb 21 23:21:17 2014
-## Modified at:   Sat Feb 22 03:55:30 2014
+## Modified at:   Sat Feb 22 11:49:57 2014
 ## Modified by:   Zhicong Chen <zhicong.chen@changecong.com>
 ## Status:        Experimental, do not distribute.
 ## Description:   A simple module to split the content that return by
@@ -161,7 +161,6 @@ class Split:
         '''
         get the text part of the wiki page
         '''
-        print ''
         # print self.__content
 
         self.__text = self.__text_only(self.__content)
