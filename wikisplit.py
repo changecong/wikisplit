@@ -6,7 +6,7 @@
 ## Version:       
 ## Author:        Zhicong Chen <zhicong.chen@changecong.com>
 ## Created at:    Fri Feb 21 23:21:17 2014
-## Modified at:   Sat Feb 22 11:49:57 2014
+## Modified at:   Sat Feb 22 20:55:35 2014
 ## Modified by:   Zhicong Chen <zhicong.chen@changecong.com>
 ## Status:        Experimental, do not distribute.
 ## Description:   A simple module to split the content that return by
@@ -123,6 +123,12 @@ class Split:
         # del pairs[0]
 
         for pair in pairs:
+
+            # a simple way to skip the invalid pair
+            if len(pair) < 2:
+                break
+
+
             # print pair
             '''
             each element looks like:
@@ -131,15 +137,19 @@ class Split:
             
             # split by '=' & '\'
             key_value = re.split('=', pair)
-            #print key_value
+            # print key_value
+
             if len(key_value) < 2:
                 # split 
                 key_value = self.__split_by_space(key_value[0])
 
             key = key_value[0].strip().lstrip('\|').strip()
             val = key_value[1].strip().lstrip('[').rstrip(']')
-            
-            self.__book[key] = val
+
+            if len(key) == 0 and len(val) == 0:
+                continue
+            else:
+                self.__book[key] = val
 
 
     def __split_by_space(self, string):
@@ -149,11 +159,15 @@ class Split:
         # print string
 
         pattern0 = re.compile('\w+\s')
-        key = pattern0.match(string).group().strip()
         
-        pattern1 = re.compile(key)
-        value = pattern1.sub('', string).strip()
-            
+        try:
+            key = pattern0.match(string).group().strip()
+        
+            pattern1 = re.compile(key)
+            value = pattern1.sub('', string).strip()
+        except:
+            key = ''
+            value = ''
         return [key, value]
 
     def __get_text(self):
