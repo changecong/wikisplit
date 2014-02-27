@@ -6,7 +6,7 @@
 ## Version:       
 ## Author:        Zhicong Chen <zhicong.chen@changecong.com>
 ## Created at:    Fri Feb 21 23:21:17 2014
-## Modified at:   Thu Feb 27 11:03:28 2014
+## Modified at:   Thu Feb 27 13:33:25 2014
 ## Modified by:   Zhicong Chen <zhicong.chen@changecong.com>
 ## Status:        Experimental, do not distribute.
 ## Description:   A simple module to split the content that return by
@@ -28,7 +28,7 @@ class Split:
         self.__content = ''
         self.__book = {}
         self.__text = ''
-        self.__category = {}
+        self.__category = []
 
         if not content:
             raise wiki.WikiError("No content is given!")
@@ -58,17 +58,43 @@ class Split:
         '''
         return self.__text
 
-    def category(self, category=False):
+    def year(self, date=False):
+        if not date:
+            raise wiki.WikiError("No year is given!")       
+
+        p_year = re.compile('\d{4}')
+        
+        return p_year.search(date).group()
+
+    def category(self, categories=False):
         '''
         generate a dict of categories
         '''
-        if not category:
+        if not categories:
             raise wiki.WikiError("No content is given!")       
 
-        
-        
+        '''
+        categories from wikitools are in a list with a format of
+        ['category:xxxxx', ...]
+        '''
+        for category in categories:
+            p_category = re.compile('[^\[category:|^\[Category:]([^\]]*)')
+            category = p_category.search(category).group().strip()
+
+            self.__category.append(category)
 
         return self.__category
+
+    def authors(self, authors=''): 
+
+        return re.split('\|', authors)
+
+    def cleanup(self, string=False):
+
+        if not string:
+            raise wiki.WikiError("No string is given!")
+
+        # remove all <> {} [] ()
 
     def __pre_process(self, content=False):
         
@@ -98,18 +124,21 @@ class Split:
             error = 'do something'
         else:
 
-            # print book_infobox.group()
+            book_info = self.__get_infobox_book_template(pos=book_infobox.start())
+            book_info = book_info.lstrip('\{').rstrip('\}').strip()
+
+            # print book_info
             
             # patten1 = re.compile('\n(.[^{]+)\n')
-            patten1 = re.compile('\{\{[Ii]nfobox [Bb]ook\s*\|?\s*\n?')
-            patten2 = re.compile('\n?}}')
+            # patten1 = re.compile('\{\{[Ii]nfobox [Bb]ook\s*\|?\s*\n?')
+            patten1 = re.compile('[Ii]nfobox [Bb]ook\s*\|?\s*\n?')
+            # patten2 = re.compile('\n?}}')
             
             '''
             use findall to get the string within ( )
             '''
-            # book_info = patten1.findall(book_infobox.group())[0]
-            book_info = patten1.sub('', book_infobox.group())
-            book_info = patten2.sub('', book_info)
+            book_info = patten1.sub('', book_info)
+            # book_info = patten2.sub('', book_info)
 
             if book_info:
 
@@ -122,6 +151,38 @@ class Split:
                 self.__split_book_info(book_info)
             else:
                 raise wiki.WikiError("No book info is found!")
+
+    def __get_infobox_book_template(self, pos=0):
+
+        '''
+        this function finds {{}} pair with nest        
+        '''
+        content = self.__content
+
+        if not content:
+            raise wiki.WikiError("No string is given!")
+
+        result = ''
+        end = 0
+
+        stack = []
+        pushed = False
+        for i in range(len(content)):
+            if i > pos:
+                # if {{ push to stack
+                if content[i] == '{' and content[i-1] == '{':
+                    pushed = True
+                    stack.append(1)
+                if content[i] == '}' and content[i-1] == '}':
+                    stack.pop()
+                
+                if pushed:
+                    # check validity
+                    if len(stack) == 0:
+                        end = i
+                        break
+
+        return content[pos:end+1].strip()
 
     def __split_book_info(self, string=False):
         
@@ -157,7 +218,10 @@ class Split:
                 key_value = self.__split_by_space(key_value[0])
 
             key = key_value[0].strip().lstrip('\|').strip()
-            val = key_value[1].strip().lstrip('[').rstrip(']')
+            # val = key_value[1].strip().lstrip('[').rstrip(']')
+            val = key_value[1].strip()
+            # reomve [[]]
+            val = re.sub(r'\[|\]', '', val)
 
             if len(key) == 0 and len(val) == 0:
                 continue
