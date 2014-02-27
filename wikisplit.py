@@ -6,7 +6,7 @@
 ## Version:       
 ## Author:        Zhicong Chen <zhicong.chen@changecong.com>
 ## Created at:    Fri Feb 21 23:21:17 2014
-## Modified at:   Sat Feb 22 20:55:35 2014
+## Modified at:   Thu Feb 27 11:03:28 2014
 ## Modified by:   Zhicong Chen <zhicong.chen@changecong.com>
 ## Status:        Experimental, do not distribute.
 ## Description:   A simple module to split the content that return by
@@ -28,6 +28,7 @@ class Split:
         self.__content = ''
         self.__book = {}
         self.__text = ''
+        self.__category = {}
 
         if not content:
             raise wiki.WikiError("No content is given!")
@@ -56,6 +57,18 @@ class Split:
         return the text part
         '''
         return self.__text
+
+    def category(self, category=False):
+        '''
+        generate a dict of categories
+        '''
+        if not category:
+            raise wiki.WikiError("No content is given!")       
+
+        
+        
+
+        return self.__category
 
     def __pre_process(self, content=False):
         
@@ -149,7 +162,7 @@ class Split:
             if len(key) == 0 and len(val) == 0:
                 continue
             else:
-                self.__book[key] = val
+                self.__book[str.lower(key)] = val
 
 
     def __split_by_space(self, string):
