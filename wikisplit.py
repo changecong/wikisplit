@@ -6,7 +6,7 @@
 ## Version:       
 ## Author:        Zhicong Chen <zhicong.chen@changecong.com>
 ## Created at:    Fri Feb 21 23:21:17 2014
-## Modified at:   Thu Feb 27 13:33:25 2014
+## Modified at:   Thu Feb 27 20:26:23 2014
 ## Modified by:   Zhicong Chen <zhicong.chen@changecong.com>
 ## Status:        Experimental, do not distribute.
 ## Description:   A simple module to split the content that return by
@@ -87,7 +87,10 @@ class Split:
 
     def authors(self, authors=''): 
 
-        return re.split('\|', authors)
+        authors = re.sub(r'\(.*\)', '', authors)
+        authors = re.sub(r'with', '', authors)
+
+        return re.split('\||\<br\>|,', authors)
 
     def cleanup(self, string=False):
 
