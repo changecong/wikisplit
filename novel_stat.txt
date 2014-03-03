@@ -1,0 +1,1248 @@
+0 : ['David Ebershoff'] : 2009 : The 19th Wife
+1 : ['Armin Shimerman', 'David R. George III ', 'David R. George III'] : 1999 : The 34th Rule
+2 : [''] :  : Template:A Little Princess
+3 : ['Winston Churchill ', 'Winston Churchill'] : 1910 : A Modern Chronicle
+4 : ['Ruth Ozeki', 'Ruth L. Ozeki'] : 2013 : A Tale for the Time Being
+5 : ['Andy Warhol'] : 1968 : a, A Novel
+6 : ['Chester Aaron'] : 1967 : About Us
+7 : ['E. Annie Proulx'] : 1996 : Accordion Crimes
+8 : ['Joyce Carol Oates'] : 2013 : The Accursed
+9 : ['Ann Rinaldi'] : 1997 : An Acquaintance with Darkness
+10 : ['John Steinbeck'] : 1976 : The Acts of King Arthur and His Noble Knights
+11 : ['Joe David Brown'] : 1971 : Addie Pray
+12 : ['Norah E. Dunn'] : 1927 : The Adulteress
+13 : ['Edith Wharton'] : 1920 : The Age of Innocence
+14 : ['Irving Stone'] : 1961 : The Agony and the Ecstasy
+15 : ['Willa Cather'] : 1912 : Alexander's Bridge
+16 : ['Sherwood Anderson'] : 1929 : Alice and the Lost Novel
+17 : ['Mary Tappan Wright'] : 1902 : Aliens
+18 : ['Maya Angelou'] : 1986 : All God's Children Need Traveling Shoes
+19 : ['Ruth Ozeki', 'Ruth L. Ozeki'] : 2004 : All Over Creation
+20 : ['Henry Miller'] : 1935 : Aller Retour New York
+21 : ['Leslie Marmon Silko'] : 1991 : Almanac of the Dead
+22 : ['James Patterson'] : 1993 : Along Came a Spider
+23 : ['Sophia Romero'] : 1998 : Always Hiding
+24 : ['Yone Noguchi'] : 1901 : The American Diary of a Japanese Girl
+25 : ['Shawn Wong'] : 2005 : American Knees
+26 : ['Eden Phillpotts'] : 1904 : The American Prisoner
+27 : ['Don DeLillo'] : 1971 : Americana
+28 : ['Elizabeth Yates ', 'Elizabeth Yates'] : 1950 : Amos Fortune, the Free Man
+29 : ['Al Fray'] : 1955 : And Kill Once More
+30 : ['April Stevens'] : 1995 : Angel Angel
+31 : ['Andrew M. Greeley'] : 1995 : Angel Light
+32 : ['Caleb Carr'] : 1997 : The Angel of Darkness
+33 : ['Barbara Kingsolver'] : 1990 : Animal Dreams
+34 : ['Sinclair Lewis'] : 1933 : Ann Vickers
+35 : ['Jamaica Kincaid'] : 1985 : Annie John
+36 : ['James Baldwin'] : 1962 : Another Country
+37 : ['Elizabeth Moorhead'] : 1930 : Answer Before Dark
+38 : ['Truman Capote'] : 1986 : Answered Prayers
+39 : ['Pulitzer Prize', 'Pulitzer-Prize'] : 1991 : Antonietta | title_orig
+40 : ['Franklin W. Dixon'] : 1980 : The Apeman's Secret
+41 : ["John O'Hara"] : 1934 : Appointment in Samarra
+42 : ['Diana Abu-Jaber'] : 1993 : Arabian Jazz
+43 : ['Philip Francis Nowlan'] : 1928 : Armageddon 2419 A.D.
+44 : ['Elia Kazan'] : 1967 : The Arrangement
+45 : ['Sinclair Lewis'] : 1925 : Arrowsmith
+46 : ['Thomas Berger ', 'Thomas Berger'] : 1978 : Arthur Rex: A Legendary Novel
+47 : ['John Fante'] : 1939 : Ask the Dust
+48 : ['Bernard Malamud'] : 1957 : The Assistant
+49 : ['Robert Penn Warren'] : 1943 : At Heaven's Gate
+50 : ['Judith Rossner'] : 1983 : August
+51 : ['James Weldon Johnson'] : 1912 : '''The Autobiography of an Ex-Colored Man'''
+52 : ['David Guy'] : 1991 : The Autobiography of My Body
+53 : ['Patricia MacLachlan'] : 1995 : Baby (MacLachlan novel)
+54 : ['Norman Mailer'] : 1951 : Barbary Shore
+55 : ['James Oliver Curwood'] : 1917 : Baree, Son of Kazan
+56 : ['Grosset ', ' Dunlap'] : 1947 : Vicki Barr Flight Stewardess Series
+57 : ['Ellen Glasgow'] : 1925 : Barren Ground (novel)
+58 : [''] :  : Template:Barsoom
+59 : ['Barbara Kingsolver'] : 1988 : The Bean Trees
+60 : ['Rafi Zabor'] : 1998 : The Bear Comes Home
+61 : ['James Ellroy'] : 1986 : Because the Night
+62 : ['Laurie R. King'] : 1994 : The Beekeeper's Apprentice
+63 : ['Irwin Shaw'] : 1978 : Beggarman, Thief
+64 : ['Henry Blake Fuller', 'Henry B. Fuller'] : 1919 : Bertram Cope's Year: A Novel
+65 : ['Robert Ullin'] : 1935 : Besides, the Wench Is Dead
+66 : ['Rona Jaffe'] : 1958 : The Best of Everything
+67 : ['Thriller ', 'thriller'] : 1979 : The Better Angels
+68 : ['Wallace Stegner'] : 1943 : The Big Rock Candy Mountain (novel)
+69 : ['P. F. Kluge'] : 1996 : Biggest Elvis: A Novel
+70 : ['Whitley Strieber'] : 1990 : Billy
+71 : ['William J. Kennedy', 'William Kennedy'] : 1978 : Billy Phelan's Greatest Game
+72 : ['Lester Goran'] : 1998 : Bing Crosby's Last Song
+73 : ['Velma Wallis'] : 1996 : Bird Girl and the Man Who Followed the Sun
+74 : ['William Wharton ', 'William Wharton'] : 1978 : Birdy
+75 : ['Agnes Sligh Turnbull'] : 1948 : The Bishop's Mantle
+76 : ['Anna Quindlen'] : 1998 : Black and Blue
+77 : ['Cornell Woolrich'] : 1943 : The Black Angel (novel)
+78 : ['Michael Connelly'] : 1992 : The Black Echo
+79 : ['James Patterson'] : 1986 : Black Friday
+80 : ['Henry Miller'] : 1936 : Black Spring
+81 : ['Edward Abbey'] : 1971 : Black Sun
+82 : ['Thomas Harris'] : 1975 : Black Sunday
+83 : ['Dorothy B. Hughes'] : 1943 : The Blackbirder
+84 : ['Nancy Mitford'] : 1951 : The Blessing
+85 : ['Kathy Acker'] : 1984 : Blood and Guts in High School
+86 : ['William Attaway'] : 1941 : Blood on the Forge
+87 : ['Richard Price ', 'Richard Price'] : 1976 : Bloodbrothers
+88 : ['Clive Cussler', '  Paul Kemprecos'] : 2000 : Blue Gold
+89 : ['Judith Belushi Pisano', 'Judith Jacklin', ' Tino Insana'] : 1980 : Blues Brothers: Private
+90 : ['Mitch Glazer', 'Miami Mitch'] : 1980 : The Blues Brothers
+91 : ['Patricia Highsmith'] : 1954 : The Blunderer
+92 : ['Robert Grudin'] : 1992 : Book: A Novel
+93 : ['Joan Didion'] : 1977 : A Book of Common Prayer
+94 : ['Jack Kerouac'] : 1960 : Book of Dreams
+95 : ['Kathleen Cambor'] : 1996 : The Book of Mercy
+96 : ['Jane Hamilton'] : 1988 : The Book of Ruth
+97 : ['Patricia Highsmith'] : 1980 : The Boy Who Followed Ripley
+98 : ['James Robert Baker'] : 1988 : Boy Wonder
+99 : ['William Goldman'] : 1964 : Boys and Girls Together
+100 : ['Philip Roth'] : 1972 : The Breast
+101 : ['Anne Tyler'] : 1988 : Breathing Lessons
+102 : [''] :  : Template:Brewster's Millions
+103 : ['Thornton Wilder'] : 1927 : The Bridge of San Luis Rey
+104 : ['Robert James Waller'] : 1992 : The Bridges of Madison County
+105 : ['Jay McInerney'] : 1984 : Bright Lights, Big City
+106 : ['Jay McInerney'] : 1992 : Brightness Falls
+107 : ['Philip K. Dick'] : 1988 : The Broken Bubble
+108 : ['Edith Wharton'] : 1937 : The Buccaneers
+109 : ['Christopher Paul Curtis'] : 1999 : Bud, Not Buddy
+110 : ['T. C. Boyle'] : 1984 : Budding Prospects
+111 : ['Theodore Dreiser'] : 1946 : The Bulwark
+112 : ['Merriam Modell '] : 1957 : Bunny Lake Is Missing
+113 : ['Phillip Bonosky'] : 1953 : Burning Valley
+114 : ['Anita Loos'] : 1927 : But Gentlemen Marry Brunettes
+115 : ['Paul Watkins ', 'Paul Watkins'] : 1989 : Calm at Sunset, Calm at Dawn
+116 : ['John L. Casti'] : 1998 : The Cambridge Quintet
+117 : ['Lester Goran'] : 1964 : The Candy Butcher's Farewell
+118 : ['Gary Paulsen'] : 1990 : Canyons
+119 : ['Gary Paulsen'] : 1994 : The Car
+120 : ['James A. Michener'] : 1963 : Caravans
+121 : ['Tom Clancy'] : 1988 : The Cardinal of the Kremlin
+122 : ['William Gaddis'] : 1985 : Carpenter's Gothic
+123 : [''] :  : Template:Caspak trilogy
+124 : ['William Watkins'] : 1999 : Cassina Gambrel Was Missing
+125 : ['John Dickson Carr'] : 1931 : Castle Skull
+126 : ['Robert A. Heinlein'] : 1985 : The Cat Who Walks Through Walls
+127 : ['Dorothy Allison'] :  : Cavedweller
+128 : ['Ken Kesey'] : 1989 : Caverns
+129 : ['John Updike'] : 1963 : The Centaur
+130 : ['Leslie Marmon Silko'] : 1977 : Ceremony
+131 : ['Jack Du Brul'] : 1999 : Charon's Landing
+132 : ['Ruth Doan MacDougall'] : 1974 : The Cheerleader
+133 : ['paranoid schizophrenia'] : 1986 : Children of Light
+134 : ['John Barth'] : 1972 : Chimera (John Barth novel)
+135 : ['Jack McDevitt'] : 1994 : The Engines of God
+136 : ['Pamela Moore ', 'Pamela Moore'] : 1956 : Chocolates for Breakfast
+137 : ['Lauren Belfer'] : 1999 : City of Light
+138 : ['John Rechy'] : 1963 : City of Night
+139 : ['Bruce R. Cordell'] : 2009 : City of Torment
+140 : ['C. D. Payne'] : 1999 : Civic Beauties
+141 : ['Erich Segal'] : 1986 : The Class
+142 : ['Tom Clancy'] : 1989 : Clear and Present Danger
+143 : ['Elizabeth Moorhead'] : 1929 : Clouded Hills
+144 : ['Carolyn Keene', 'Carolyn G. Keene'] : 1953 : The Clue of the Velvet Mask
+145 : ['Carolyn Keene'] : 1964 : The Clue of the Whistling Bagpipes
+146 : ['Margery Sharp'] : 1944 : Cluny Brown
+147 : ['Karen Rose Cercone'] : 1999 : Coal Bones
+148 : ['Upton Sinclair'] : 1917 : The Coal War
+149 : ['"Trudy Baker ', ' Rachel Jones"', ' Donald Bain ', 'Donald Bain'] : 1967 : Coffee, Tea or Me? — The Uninhibited Memoirs of Two Airline Stewardesses
+150 : ['George V. Higgins'] : 1974 : Cogan's Trade
+151 : ['John Hermes Secondari'] : 1952 : Coins in the Fountain
+152 : ['William Goldman'] : 1984 : The Color of Light
+153 : ['Henry Miller'] : 1941 : The Colossus of Maroussi
+154 : ['Al Fray'] : 1958 : Come Back for More
+155 : ['Dawn Powell'] : 1932 : Come Back to Sorrento
+156 : [''] :  : Come Nineveh, Come Tyre
+157 : ['Peter Farrelly'] :  : The Comedy Writer
+158 : ['Lester Cohen'] : 1945 : Coming Home
+159 : ['William March'] : 1933 : Company K
+160 : ['Mary Gordon ', 'Mary Gordon'] : 1981 : The Company of Women (Gordon novel)
+161 : ['L. Sprague de Camp', 'Lin Carter', 'Catherine Crook de Camp'] : 1982 : Conan the Barbarian
+162 : ['Richard Brautigan'] : 1964 : A Confederate General From Big Sur
+163 : ['Russell Banks'] : 1985 : Continental Drift (novel)
+164 : ['William Goldman'] : 1982 : Control
+165 : ['Warren Miller ', 'Warren Miller'] : 1959 : The Cool World
+166 : ['John Updike'] : 1968 : Couples
+167 : ['James A. Michener'] : 1980 : The Covenant
+168 : ['Bapsi Sidhwa'] : 1991 : Cracking India
+169 : ['Neal Stephenson'] : 1999 : Cryptonomicon
+170 : ['Upton Sinclair'] : 1956 : The Cup of Fury
+171 : ['Edith Wharton'] : 1913 : The Custom of the Country
+172 : ['Donald Goines'] : 1974 : Daddy Cool (novel)
+173 : ['Chris Elliott'] : 1989 : Daddy's Boy: A Son's Shocking Account of Life with a Famous Father
+174 : ['Dashiell Hammett'] : 1929 : The Dain Curse
+175 : ['P. G. Wodehouse'] : 1919 : A Damsel in Distress
+176 : ['Francesca Lia Block'] : 1998 : Dangerous Angels
+177 : ['David Ebershoff'] : 2000 : The Danish Girl
+178 : ['Charles Hawes'] : 1924 : The Dark Frigate
+179 : ['Sherwood Anderson'] : 1925 : Dark Laughter
+180 : ['W. E. B. Du Bois'] : 1928 : Dark Princess
+181 : ['Philip MacDonald', ' ', 'A. Boyd Correll'] : 1948 : The Dark Wheel
+182 : ['John D. MacDonald'] : 1966 : Darker than Amber
+183 : ['Dennis Lehane'] : 1996 : Darkness, Take My Hand
+184 : ['Isabel Allende'] : 1999 : Daughter of Fortune
+185 : ['Zane Grey'] :  : The Day of the Beast (novel)
+186 : ['George Barr McCutcheon'] : 1904 : The Day of the Dog
+187 : ['Steve Erickson'] : 1985 : Days Between Stations
+188 : ['Stuart Woods'] : 1997 : Dead in the Water
+189 : ['Kurt Vonnegut'] : 1982 : Deadeye Dick
+190 : ['Michael Crichton', 'Michael Douglas'] : 1970 : Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues
+191 : ['Gordon Lish'] : 1983 : Dear Mr. Capote
+192 : ['John Dickson Carr'] : 1941 : Death Turns the Tables (UK title: ''The Seat of the Scornful'')
+193 : ['Robb White'] : 1972 : Deathwatch
+194 : ['Tom Clancy'] : 1994 : Debt of Honor
+195 : ['Clive Cussler'] : 1984 : Deep Six
+196 : ['E. M. Corder'] : 1979 : The Deer Hunter
+197 : ['Leland Baldwin'] : 1939 : The Delectable Country
+198 : ['Marcus Goodrich'] : 1941 : Delilah (novel)
+199 : ['James Dickey'] : 1970 : Deliverance
+200 : ['Carrie Fisher'] : 1994 : Delusions of Grandma
+201 : ['Joan Didion'] : 1984 : Democracy
+202 : ['Ron Hansen'] : 1979 : Desperadoes (novel)
+203 : ['Paula Fox'] : 1970 : Desperate Characters
+204 : ['Donald Hamilton'] : 1982 : The Detonators
+205 : ['Ellery Queen'] : 1938 : The Devil to Pay
+206 : ['Luke Rhinehart'] : 1971 : The Dice Man
+207 : ['Al Fray'] : 1957 : The Dice Spelled Murder
+208 : ['Anne Tyler'] : 1982 : Dinner at the Homesick Restaurant
+209 : ['Henry Denker'] : 1971 : The Director
+210 : [''] : 1988 : Dirty Work (Larry Brown novel)
+211 : ['Jack Conroy'] : 1933 : The Disinherited
+212 : ['R. M. Koster'] : 1972 : The Dissertation
+213 : ['Matthew Stadler'] : 1993 : The Dissolution of Nicholas Dee
+214 : ['Rebecca Wells'] : 1996 : Divine Secrets of the Ya-Ya Sisterhood
+215 : ['Erich Segal'] : 1988 : ''Doctors''
+216 : ['Sinclair Lewis'] : 1929 : Dodsworth
+217 : ['Jessica Hagedorn'] : 1990 : Dogeaters
+218 : ['Stephen King'] : 1992 : Dolores Claiborne
+219 : ['Sidney Sheldon'] : 1991 : The Doomsday Conspiracy
+220 : ['Ross Macdonald'] : 1958 : The Doomsters
+221 : ['Nancy Butts'] : 1997 : The Door in the Lake
+222 : ['Marguerite de Angeli'] : 1949 : The Door in the Wall
+223 : ['Suzy McKee Charnas'] : 1986 : Dorothea Dreams
+224 : ['Robert B. Parker'] : 1992 : Double Deuce
+225 : ['David Morrell'] : 1998 : Double Image (novel)
+226 : ['Raymond Federman'] : 1971 : Double or Nothing
+227 : ['Carl Hiaasen'] : 1987 : Double Whammy
+228 : ['Neal Shusterman'] : 2001 : Downsiders
+229 : ['S. S. Van Dine'] : 1934 : The Dragon Murder Case
+230 : ['Dean Koontz'] : 1993 : Dragon Tears
+231 : ['Jim Grimsley'] : 1995 : Dream Boy
+232 : ['Davis Grubb'] : 1955 : A Dream of Kings
+233 : ['Daniel Quinn'] : 1988 : Dreamer
+234 : ['Theodore Sturgeon'] : 1950 : The Dreaming Jewels
+235 : ['Sean Carswell'] : 1999 : Drinks for the Little Guy
+236 : ['Garet Garrett'] : 1922 : The Driver (novel)
+237 : ['Ross Macdonald'] : 1950 : The Drowning Pool
+238 : ['Michael Crichton', 'John Lange'] : 1970 : Drug of Choice
+239 : ['Bernard Malamud'] : 1979 : Dubin's Lives
+240 : ['William Sleator'] : 1998 : The Duplicate
+241 : ['Marilyn Durham'] : 1973 : Dutch Uncle
+242 : ['Winston Churchill ', 'Winston Churchill'] : 1917 : The Dwelling-Place of Light
+243 : ['Nancy Farmer ', 'Nancy Farmer'] : 1994 : The Ear, the Eye, and the Arm
+244 : ['Louis Bromfield'] : 1926 : Early Autumn
+245 : ['Robert B. Parker'] : 1980 : Early Autumn
+246 : ['Jeanne DuPrau'] : 1993 : The Earth House
+247 : ['Harry Middleton ', 'Harry Middleton'] :  : The Earth is Enough
+248 : ['T. C. Boyle'] : 1990 : East is East
+249 : ['John Steinbeck'] : 1952 : East of Eden
+250 : ['Pearl S. Buck'] : 1930 : East Wind: West Wind
+251 : ['Michael Crichton', 'John Lange'] : 1968 : Easy Go
+252 : ['Dalton Trumbo'] : 1935 : Eclipse (Trumbo)
+253 : ['Ernest Callenbach'] : 1975 : Ecotopia: The Notebooks and Reports of William Weston
+254 : ['Ernest Callenbach'] : 1981 : Ecotopia Emerging
+255 : ["Edwin O'Connor"] : 1961 : The Edge of Sadness
+256 : ['Edgar Rice Burroughs'] : 1921 : The Efficiency Expert
+257 : ['Donald Goines'] : 1974 : Eldorado Red
+258 : ['Kaye Gibbons'] : 1987 : Ellen Foster
+259 : ['A. M. Homes'] : 1996 : The End of Alice
+260 : ['Isaac Asimov'] : 1955 : The End of Eternity
+261 : ['John Barth'] : 1958 : The End of the Road
+262 : ['Tom Drury'] : 1994 : The End of Vandalism
+263 : ['Orson Scott Card'] : 1985 : Ender's Game
+264 : ['Dan Simmons'] : 1996 : Endymion
+265 : ['Isaac Bashevis Singer'] : 1966 : Enemies, A Love Story
+266 : ['Edith Wharton'] : 1911 : Ethan Frome
+267 : ['Tom Robbins'] : 1976 : Even Cowgirls Get the Blues
+268 : ['Frank Deford'] :  : Everybody's All-American
+269 : ['Franklin W. Dixon'] : 1987 : Evil, Inc.
+270 : ['Norman Mailer'] : 1979 : The Executioner's Song
+271 : ['Tom Clancy'] : 1996 : Executive Orders
+272 : ['Iris Murdoch'] :  : A Fairly Honourable Defeat
+273 : ['J. P. Donleavy'] : 1973 : A Fairy Tale of New York
+274 : ['Richard Krawiec'] : 1996 : Faith In What?
+275 : ['Elizabeth Peters'] : 1999 : The Falcon at the Portal
+276 : ['Andrew Greeley'] : 1993 : Fall from Grace
+277 : ['Thomas Dixon Jr'] : 1916 : The Fall of a Nation (novel)
+278 : ['Allegra Goodman'] : 1996 : The Family Markowitz
+279 : ['Frederick Exley'] : 1968 : A Fan's Notes
+280 : ['Richard Sapir'] : 1979 : The Far Arena
+281 : ['Winston Churchill ', 'Winston Churchill'] : 1915 : A Far Country
+282 : ['Ernest Hemingway'] : 1929 : A Farewell to Arms
+283 : ['Raymond Chandler'] : 1940 : Farewell, My Lovely
+284 : ['Louis Bromfield'] : 1933 : The Farm (novel)
+285 : ['Laura Ingalls Wilder'] : 1933 : Farmer Boy
+286 : ['Stephen Graham Jones'] : 2000 : The Fast Red Road: A Plainsong
+287 : ['Christopher Bram'] : 1995 : Father of Frankenstein
+288 : ['William Goldman'] : 1971 : Father's Day
+289 : ['Donald Henderson Clarke'] : 1933 : Female
+290 : ['Nicholson Baker'] :  : The Fermata
+291 : ['Wright Morris'] : 1956 : The Field of Vision
+292 : ['Conrad Richter'] : 1946 : The Fields (novel)
+293 : ['James Webb{{dn', 'date'] : 1978 : Fields of Fire
+294 : ['Donald Corley'] : 1930 : The Fifth Son of the Shoemaker
+295 : ['John M. Ford'] : 1984 : The Final Reflection
+296 : ['Theodore Dreiser'] : 1912 : The Financier
+297 : ['Alan Rodgers'] : 1990 : Fire (Rodgers novel)
+298 : ['Carl Van Vechten'] : 1925 : Firecrackers. A Realistic Novel
+299 : ['David Morrell'] : 1972 : First Blood
+300 : ['Laura Ingalls Wilder'] : 1971 : The First Four Years
+301 : ['Dan Cragg ', ' David Sherman'] : 1997 : First to Fight
+302 : ['Richard Woodley'] : 1979 : The Fish That Saved Pittsburgh
+303 : ['Samuel Hopkins Adams'] : 1920 : Flaming Youth (novel)
+304 : ['Dean Koontz'] : 1972 : The Flesh in the Furnace
+305 : ['Theodore Roszak ', 'Theodore Roszak'] : 1991 : Flicker
+306 : ['literary critic'] : 1930 : The Flight to Lucifer
+307 : ['Vanna Bonta'] :  : Flight: A Quantum Fiction Novel
+308 : ['Upton Sinclair'] : 1937 : The Flivver King: A Story of Ford-America
+309 : ['Ursula Hegi'] : 1990 : Floating in My Mother's Palm
+310 : ['John Barth'] :  : The Floating Opera
+311 : ['Lisa See'] : 1997 : Flower Net
+312 : [''] :  : Template:Flowers for Algernon
+313 : ['James Welch ', 'James Welch'] : 1986 : Fools Crow
+314 : ['Mario Puzo'] : 1978 : Fools Die
+315 : ['David Guy'] : 1980 : Football Dreams
+316 : ['Larry Niven ', '', 'Jerry Pournelle'] : 1985 : Footfall
+317 : ['Ethan Canin'] : 1999 : For Kings and Planets
+318 : [''] :  : The Forbidden Game
+319 : ['Marion Zimmer Bradley'] : 1977 : The Forbidden Tower <ref>{{isfdb title|1919}}</ref>
+320 : ['Elizabeth Moorhead'] : 1933 : The Forbidden Tree
+321 : ['Alison Lurie'] : 1984 : Foreign Affairs
+322 : ['Hervey Allen'] : 1943 : The Forest and the Fort
+323 : ['Kathleen Winsor'] : 1944 : Forever Amber (novel)
+324 : ['Winston Groom'] : 1986 : Forrest Gump
+325 : ['Mario Puzo'] : 1965 : The Fortunate Pilgrim
+326 : ['Isaac Asimov', 'Asimov', ' Isaac'] : 1993 : Forward the Foundation
+327 : ['Isaac Asimov'] : 1951 : Foundation
+328 : ['Greg Bear', 'Bear', ' Greg'] : 1998 : Foundation and Chaos
+329 : ['Isaac Asimov'] : 1986 : Foundation and Earth
+330 : ['Isaac Asimov'] : 1982 : Foundation's Edge
+331 : ['Gregory Benford', 'Benford', ' Gregory'] : 1997 : Foundation's Fear
+332 : ['David Brin', 'Brin', ' David'] : 1999 : Foundation's Triumph
+333 : ['Ayn Rand'] : 1943 : The Fountainhead
+334 : ['Pepper Rodgers'] : 1985 : Fourth and Long Gone
+335 : ['Dallas Cowboys'] : 1983 : The Franchise (novel)
+336 : [''] :  : Template:Freaky Friday
+337 : ['Gene Stratton-Porter'] : 1904 : Freckles
+338 : ['Sinclair Lewis'] : 1919 : Free Air
+339 : ['Jessamyn West ', 'Jessamyn West'] : 1945 : The Friendly Persuasion
+340 : ['George V. Higgins'] : 1970 : The Friends of Eddie Coyle (novel)
+341 : ['William Gaddis'] : 1994 : A Frolic of His Own
+342 : ['James Jones ', 'James Jones'] : 1951 : From Here to Eternity
+343 : ['Patricia Nell Warren'] : 1974 : ''The Front Runner''
+344 : ['Mary Renault'] : 1981 : Funeral Games
+345 : ['Ernest Vincent Wright'] : 1939 : Gadsby
+346 : ['James Clavell'] : 1993 : Gai-Jin
+347 : ['Richard Powers'] : 1998 : Gain (novel)
+348 : ['P. G. Wodehouse'] : 1964 : Galahad at Blandings
+349 : ['Richard Powers'] : 1995 : Galatea 2.2
+350 : ['Jessica Hagedorn'] : 1996 : The Gangster of Love
+351 : ['Robert R. Morgan'] : 1999 : Gap Creek
+352 : ['Joyce Carol Oates'] : 1967 : A Garden of Earthly Delights
+353 : ['Ernest Hemingway'] : 1986 : The Garden of Eden
+354 : ['Gentry Lee', 'Arthur C. Clarke'] : 1991 : The Garden of Rama
+355 : ['Rick Moody'] : 1992 : Garden State
+356 : ['Gladys Schmitt'] : 1942 : The Gates of Aulis
+357 : ['Steven Pressfield'] : 1998 : Gates of Fire
+358 : ['Maya Angelou'] : 1974 : Gather Together in My Name
+359 : ['Philip K. Dick'] : 1994 : Gather Yourselves Together
+360 : ['Joan Blos'] : 1979 : A Gathering of Days
+361 : ['Billy Lee Brammer'] : 1962 : The Gay Place
+362 : ['Willa Cather'] : 1935 : Lucy Gayheart
+363 : ['Katherine Dunn'] : 1989 : Geek Love
+364 : ['Charles Yale Harrison'] : 1930 : Generals Die in Bed
+365 : ['Theodore Dreiser'] : 1915 : The "Genius" (novel)
+366 : ['P. G. Wodehouse'] : 1910 : A Gentleman of Leisure <br> The Intrusion of Jimmy
+367 : ['Laura Z. Hobson'] : 1947 : Gentleman's Agreement
+368 : [''] :  : Template:Gentlemen Prefer Blondes
+369 : ['John Updike'] : 2000 : Gertrude and Claudius
+370 : ['Chang-Rae Lee'] : 1999 : ''A Gesture Life''
+371 : ['Philip Roth'] : 1979 : The Ghost Writer
+372 : ['Sinclair Lewis'] : 1943 : Gideon Planish
+373 : ['Chaim Potok'] : 1990 : The Gift Of Asher Lev
+374 : ['John Barth'] : 1966 : Giles Goat-Boy
+375 : ['Edgar Rice Burroughs'] : 1923 : The Girl from Hollywood
+376 : ['Nancy Farmer ', 'Nancy Farmer'] : 1996 : A Girl Named Disaster
+377 : ['natural history', 'naturalist'] : 1909 : A Girl of the Limberlost
+378 : ['Meridel Le Sueur'] : 1939 : The Girl (novel)
+379 : ['Caryl Rivers'] : 1986 : Girls Forever Brave and True
+380 : ['Thomas N. Scortia', 'Frank M. Robinson'] : 1974 : The Glass Inferno
+381 : ['Herman Raucher'] : 1971 : A Glimpse of Tiger
+382 : ['Alan Dean Foster'] : 1987 : Glory Lane
+383 : ['William Faulkner'] : 1942 : Go Down, Moses
+384 : ['Andrew Greeley', 'Andrew M. Greeley'] : 1986 : God Game
+385 : ['Bernard Malamud'] : 1982 : God's Grace
+386 : ['Lee Gutkind'] : 1983 : God's Helicopter
+387 : ['Robert B. Parker'] : 1973 : The Godwulf Manuscript
+388 : ["Tim O'Brien ", "Tim O'Brien"] : 1978 : Going After Cacciato
+389 : ['Richard Powers'] : 1991 : The Gold Bug Variations
+390 : ['Lawrence Chua'] : 1998 : Gold By The Inch
+391 : ['Vachel Lindsay'] : 1920 : The Golden Book of Springfield
+392 : ['Frederick Manfred'] :  : The Golden Bowl (Manfred)
+393 : ['Henry James'] : 1904 : The Golden Bowl
+394 : ['Nero Wolfe'] : 1953 : The Golden Spiders
+395 : ['Stefan Heym'] : 1953 : Goldsborough
+396 : ['Pearl S. Buck'] : 1931 : The Good Earth
+397 : ['Richard Yates ', 'Richard Yates'] : 1978 : A Good School
+398 : ['Gloria Skurzynski'] : 1992 : Good-bye, Billy Radish
+399 : ['James H. Street'] : 1954 : Good-bye, My Lady
+400 : ['Lewis Elliott Chaze', 'Elliott Chaze'] : 1983 : Goodbye Goliath
+401 : ['parody'] : 1995 : Gooflumps
+402 : ['Martin Cruz Smith'] : 1981 : Gorky Park
+403 : ["St. Martin's Press"] : 1924 : Gospel: a novel
+404 : ['Agnes Sligh Turnbull'] : 1952 : The Gown of Glory
+405 : ['S. S. Van Dine'] : 1938 : The Gracie Allen Murder Case
+406 : ['Charles Webb ', 'Charles Webb'] : 1963 : The Graduate
+407 : ['John Steinbeck'] : 1939 : The Grapes of Wrath
+408 : ['Laurie R. King'] : 1993 : A Grave Talent
+409 : ['William Carlos Williams'] :  : The Great American Novel (Williams)
+410 : ['Hector Charles Bywater'] : 1925 : The Great Pacific War
+411 : ['Jane Louise Curry'] : 1993 : The Great Smith House Hustle
+412 : ['Carolyn Keene'] : 1980 : ''Greek Symbol Mystery''
+413 : ['L. E. Modesitt'] : 1992 : The Green Progression
+414 : ['S. S. Van Dine'] : 1928 : The Greene Murder Case
+415 : ['Ann Finlayson'] : 1974 : Greenhorn on the Frontier
+416 : ['Nick Bantock'] : 1991 : Griffin and Sabine
+417 : ['Larry Niven', 'Jerry Pournelle'] : 1993 : The Gripping Hand
+418 : ['James Oliver Curwood'] : 1916 : The Grizzly King
+419 : ['James Gould Cozzens'] : 1948 : Guard of Honor
+420 : ['V. S. Naipaul'] : 1975 : Guerrillas
+421 : ['Winston Groom'] : 1995 : Gump & Co.
+422 : ['John Dickson Carr'] : 1933 : Hag's Nook
+423 : ['Leon Uris'] : 1984 : The Haj
+424 : ['Tom Robbins'] : 1994 : Half Asleep in Frog Pajamas
+425 : ['Tim Dorsey'] : 2000 : Hammerhead Ranch Motel
+426 : ['James Bassett ', 'James Bassett'] : 1962 : Harm's Way
+427 : ['Robin Cook ', 'Robin Cook'] : 1990 : Harmful Intent
+428 : ['John Katzenbach'] : 1999 : Hart's War (novel)
+429 : ['Christopher Morley'] : 1919 : The Haunted Bookshop
+430 : ['Martin Cruz Smith'] : 1999 : Havana Bay
+431 : ['Richard Brautigan'] : 1974 : The Hawkline Monster: A Gothic Western
+432 : [''] :  : J. M. Hayes
+433 : ['John Dickson Carr'] : 1946 : He Who Whispers
+434 : ['Carson McCullers'] : 1940 : The Heart Is a Lonely Hunter
+435 : ['Philip Lee Williams'] : 1984 : The Heart of a Distant Forest
+436 : ['William Goldman'] : 1985 : Heat
+437 : [''] : 1987 : Heaven and Hell (novel)
+438 : ['Charles Shaw ', 'Charles Shaw'] : 1952 : Heaven Knows, Mr. Allison
+439 : ['Bertha Runkle'] : 1901 : The Helmet of Navarre
+440 : ['Saul Bellow'] : 1959 : Henderson the Rain King
+441 : ['Beverly Cleary'] : 1952 : Henry and Beezus
+442 : ['Louis Auchincloss'] : 2000 : Her Infinite Variety
+443 : ['Sharon Kay Penman'] : 1985 : Here Be Dragons
+444 : ['Alice Hoffman'] : 1997 : Here on Earth
+445 : ['Saul Bellow'] : 1964 : Herzog
+446 : ['John Edgar Wideman'] : 1981 : Hiding Place
+447 : ['Ernest Poole'] : 1917 : His Family
+448 : ['Judith Rossner'] : 1990 : His Little Women
+449 : ['E. E. Smith', 'Edward E. Smith', ' Ph.D.'] : 1961 : The History of Civilization
+450 : ['Bharati Mukherjee'] : 1993 : The Holder of the World
+451 : ['Marilyn Manson'] :  : Holy Wood
+452 : ['Hilary Masters'] : 1996 : Home Is the Exile
+453 : ['Shawn Wong'] : 2008 : Homebase
+454 : ['Ron Suskind'] : 1998 : A Hope in the Unseen
+455 : ['Janet Evanovich'] : 2000 : Hot Six
+456 : ['Michael Cunningham'] : 1998 : The Hours
+457 : ['N. Scott Momaday'] : 1969 : House Made of Dawn
+458 : ['Edith Wharton'] : 1905 : The House of Mirth
+459 : ['Franklin W. Dixon'] : 1927 : The House on the Cliff
+460 : ['James Brady ', 'James Brady'] : 2000 : The House that Ate the Hamptons
+461 : ['Kristina McGrath'] : 1994 : House Work
+462 : ['Marilynne Robinson'] : 1980 : Housekeeping
+463 : ['Walter Abish'] : 1980 : How German Is It
+464 : ['Julia Alvarez'] : 1991 : How the García Girls Lost Their Accents
+465 : ['Amy Tan'] : 1995 : The Hundred Secret Senses
+466 : ['James Salter'] : 1956 : The Hunters
+467 : ['Charles Nordhoff'] : 1936 : The Hurricane (novel)
+468 : ['Caroline B. Cooney'] : 1999 : Hush Little Baby
+469 : ['Margaret Craven ', 'Margaret Craven'] : 1967 : I Heard the Owl Call My Name
+470 : ['Wally Lamb'] : 1998 : I Know This Much Is True
+471 : ['Philip Roth'] : 1998 : I Married a Communist
+472 : ['Judith Krantz'] : 1986 : I'll Take Manhattan
+473 : ['Bruce Wagner'] : 1996 : I'm Losing You
+474 : ['Mickey Spillane'] : 1947 : I, the Jury
+475 : ['Rick Moody'] : 1994 : The Ice Storm
+476 : ['Clive Cussler'] : 1975 : Iceberg
+477 : ['Gwyn Hyman Rubio'] : 1998 : Icy Sparks
+478 : ['Thornton Wilder'] : 1948 : The Ides of March
+479 : ['Fannie Hurst'] : 1933 : Imitation of Life
+480 : ['Edward Irenaeus Prime-Stevenson'] : 1906 : Imre
+481 : ['John Steinbeck'] : 1936 : In Dubious Battle
+482 : ['Arthur Hailey'] : 1960 : In High Places
+483 : ['John Dickson Carr'] : 1960 : In Spite of Thunder
+484 : ['John Updike'] : 1996 : In the Beauty of the Lilies
+485 : ['Paul Auster'] : 1987 : In the Country of Last Things
+486 : ["Tim O'Brien ", "Tim O'Brien"] : 1995 : In the Lake of the Woods
+487 : ['Ha Jin'] : 1998 : In the Pond
+488 : ['Julia Alvarez'] : 1994 : In the Time of the Butterflies
+489 : ['Mildred Savage'] : 1964 : In Vivo
+490 : ['Clive Cussler'] : 1994 : Inca Gold
+491 : ['Dominick Dunne'] : 1990 : An Inconvenient Woman
+492 : ['Richard Ford'] : 1995 : Independence Day
+493 : ['Sherman Alexie'] : 1996 : Indian Killer
+494 : ['Paula L. Woods'] : 1999 : Inner City Blues
+495 : ['Harlan Coben'] : 2005 : The Innocent
+496 : ['Sinclair Lewis'] : 1917 : The Innocents
+497 : ['Lisa See'] : 1999 : The Interior
+498 : ['Donald Hamilton'] : 1969 : The Interlopers
+499 : ['William Alexander Taylor'] : 1901 : Intermere
+500 : ['Colson Whitehead'] : 1999 : The Intuitionist
+501 : ['Chuck Palahniuk'] : 1999 : Invisible Monsters
+502 : ['Andrew M. Greeley'] : 2000 : Irish Eyes
+503 : ['Andrew M. Greeley'] : 1994 : Irish Gold
+504 : ['Andrew M. Greeley'] : 1996 : Irish Lace
+505 : ['Andrew M. Greeley'] : 1999 : Irish Mist
+506 : ['Andrew M. Greeley'] : 1998 : Irish Whiskey
+507 : ['Lloyd L. Brown'] : 1951 : Iron City
+508 : ['Margaret Deland'] : 1911 : The Iron Woman
+509 : ['William J. Kennedy', 'William Kennedy'] : 1983 : Ironweed
+510 : ['Daniel Quinn'] : 1992 : Ishmael
+511 : ['Ernest Hemingway'] : 1970 : Islands in the Stream
+512 : ['Douglas Bullard'] : 1986 : Islay
+513 : ['Russell H. Greenan'] : 1968 : It Happened in Boston?
+514 : ['William Gaddis'] : 1975 : J R
+515 : ['James Patterson'] : 1996 : Jack & Jill
+516 : ['Bharati Mukherjee'] : 1989 : Jasmine
+517 : ['P. G. Wodehouse'] : 1960 : Jeeves in the Offing
+518 : ['Theodore Dreiser'] : 1911 : Jennie Gerhardt
+519 : ['Jean Webster'] : 1907 : Jerry Junior
+520 : ['Bret Lott'] : 1991 : Jewel
+521 : ['Danielle Steel'] : 1992 : Jewels
+522 : ['Eleanor Cameron'] : 1964 : Jewels from the Moon and The Meteor That Couldn't Stay
+523 : ['Mike Gold'] : 1930 : Jews Without Money
+524 : ['Tony Earley'] : 2000 : Jim the Boy
+525 : ['Tom Robbins'] : 1984 : Jitterbug Perfume
+526 : ['Sinclair Lewis'] : 1917 : The Job
+527 : ['Irwin Shapiro '] : 1948 : Joe Magarac and His USA Citizen Papers
+528 : ['Dalton Trumbo'] : 1938 : Johnny Got His Gun
+529 : ['Esther Forbes'] : 1943 : Johnny Tremain
+530 : ['Edward Abbey'] : 1954 : Jonathan Troy
+531 : ['Upton Sinclair'] : 1903 : The Journal of Arthur Stirling
+532 : ['Marsha Hunt ', 'Marsha Hunt'] : 1990 : Joy
+533 : ['Amy Tan'] : 1989 : The Joy Luck Club
+534 : ['James T. Farrell'] : 1935 : Judgment Day (novel)
+535 : ['Nicholas Rinaldi'] : 1999 : The Jukebox Queen of Malta
+536 : ['Upton Sinclair'] : 1906 : The Jungle
+537 : ['James Gould Cozzens'] : 1942 : The Just and the Unjust
+538 : ['Jean Webster'] : 1911 : Just Patty
+539 : ['Harry Turtledove', 'H. N. Turteltaub'] : 1998 : Justinian
+540 : ['Allegra Goodman'] : 1998 : Kaaterskill Falls
+541 : ['Carolyn Keene'] : 1981 : The Kachina Doll Mystey
+542 : ['Danielle Steel'] : 1987 : Kaleidoscope
+543 : ['C. S. Godshalk'] : 1998 : Kalimantaan
+544 : ['Gore Vidal'] : 1978 : Kalki
+545 : ['Reynolds Price'] : 1986 : Kate Vaiden
+546 : ['James Oliver Curwood'] : 1914 : Kazan (novel)
+547 : ['Earl Derr Biggers'] : 1932 : Charlie Chan Carries On
+548 : ['Shirley Ann Grau'] : 1964 : The Keepers of the House
+549 : ['Jodi Picoult'] : 1999 : Keeping Faith
+550 : ['Donald Goines'] :  : Kenyatta series
+551 : ['Vietnam War'] : 1971 : Khaki Mafia
+552 : ['James Hatfield', 'Jim Hatfield'] : 1985 : The Killing Zone
+553 : ['Dorothy Bryant'] : 1976 : The Kin of Ata Are Waiting for You
+554 : ['Upton Sinclair'] : 1917 : King Coal (book)
+555 : ['Frederick Manfred'] :  : King of Spades (novel)
+556 : ['Marguerite Henry'] : 1948 : King of the Wind
+557 : ['Agnes Sligh Turnbull'] : 1963 : The King's Orchard
+558 : ['Suzy McKee Charnas'] : 1993 : The Kingdom of Kevin Malone
+559 : ["Scott O'Dell"] : 1966 : The King's Fifth
+560 : ['Ward Hawkins'] : 1959 : Kings Will Be Tyrants
+561 : ['Sinclair Lewis'] : 1947 : Kingsblood Royal
+562 : ['Ira Levin'] : 1953 : A Kiss Before Dying
+563 : ['Will Christopher Baer'] : 1998 : Kiss Me, Judas
+564 : ['James Patterson'] : 1995 : Kiss the Girls
+565 : ['Amy Tan'] : 1991 : The Kitchen God's Wife
+566 : ['Christopher Morley'] : 1939 : Kitty Foyle
+567 : ['Peter David'] : 1987 : Knight Life
+568 : ['Paul Theroux'] : 1997 : Kowloon Tong
+569 : ['James Ellroy'] : 1990 : L.A. Confidential
+570 : ['James Ellroy'] : 1940 : L.A. Quartet
+571 : ['Djuna Barnes'] : 1928 : Ladies Almanack
+572 : ['Raymond Chandler'] : 1943 : The Lady in the Lake
+573 : ['Walker Percy'] : 1977 : Lancelot (novel)
+574 : ['Eric Knight'] : 1940 : Lassie Come-Home
+575 : ['Ishmael Reed'] : 1974 : The Last Days of Louisiana Red
+576 : ['Walker Percy'] : 1966 : The Last Gentleman
+577 : ['Ken Kesey'] : 1994 : Last Go Round
+578 : ['B. S. Levy', 'B. S.  Levy'] : 1994 : The Last Open Road
+579 : ['Helen DeWitt'] : 2000 : The Last Samurai
+580 : ['Charles McCarry'] : 1983 : The Last Supper
+581 : ['Joan Didion'] : 1996 : The Last Thing He Wanted
+582 : ['F. Scott Fitzgerald'] : 1941 : The Love of the Last Tycoon
+583 : ['John Phillips Marquand'] : 1937 : The Late George Apley
+584 : ['Myrtle Reed'] : 1902 : Lavender and Old Lace
+585 : ['Dale Peck'] : 1996 : The Law of Enclosures
+586 : ['Bharati Mukherjee'] : 1997 : Leave It to Me
+587 : ['Peter David'] : 1998 : Babylon 5: Legions of Fire - Armies of Light and Dark
+588 : ['Peter David'] : 1998 : Babylon 5: Legions of Fire - The Long Night of Centauri Prime
+589 : ['William J. Kennedy', 'William Kennedy'] : 1975 : Legs
+590 : ['Mildred D. Taylor'] : 1981 : Let The Circle Be Unbroken
+591 : ['Laurie R. King'] : 1997 : A Letter of Mary
+592 : ['John Barth'] : 1979 : LETTERS
+593 : ['Fredy Perlman'] : 1976 : Letters of Insurgents
+594 : ['William Styron'] : 1951 : Lie Down in Darkness
+595 : ['Keith Banner'] : 1999 : The Life I Lead
+596 : ['Conrad Richter'] : 1953 : The Light in the Forest
+597 : ['Elizabeth Spencer ', 'Elizabeth Spencer'] : 1960 : The Light in the Piazza
+598 : ['Jan Karon'] : 1995 : A Light in the Window
+599 : ['Eugenia Price'] : 1972 : Lighthouse (novel)
+600 : ['Donald Harington'] : 1987 : Lightning Bug (novel)
+601 : ['Marjorie Kellogg'] : 1972 : Like the Lion's Tooth
+602 : ['Joseph Hergesheimer'] :  : Linda Condon
+603 : ['Mark Frost'] : 1993 : The List of Seven
+604 : ['Thomas Berger ', 'Thomas Berger'] : 1964 : Little Big Man
+605 : ['Selden Edwards'] : 2008 : The Little Book
+606 : ['Marghanita Laski'] : 1949 : Little Boy Lost
+607 : ['Katharine Butler Hathaway'] : 1943 : The Little Locksmith
+608 : ['Robert Cormier'] : 1963 : A Little Raw on Monday Mornings
+609 : ['Kirsten Bakis'] : 1997 : Lives of the Monster Dogs
+610 : ['Caroline Leavitt'] : 1995 : Living Other Lives
+611 : ['Sue Grafton'] : 1969 : The Lolly-Madonna War
+612 : ['Jack Kerouac'] : 1960 : Lonesome Traveller
+613 : ['A. I. Bezzerides'] : 1938 : The Long Haul (novel)
+614 : ['Judith Rossner'] : 1975 : Looking for Mr. Goodbar
+615 : ['William March'] : 1943 : The Looking-Glass
+616 : ['E. L. Doctorow'] : 1980 : Loon Lake
+617 : ['Frederick Manfred'] :  : Lord Grizzly
+618 : ['Hal Bennett'] :  : Lord of Dark Places
+619 : ['Tristan Egolf'] :  : Lord of the Barnyard: Killing the Fatted Calf and Arming the Aware in the Corn Belt
+620 : ['Andrew Greeley'] : 1984 : Lord of the Dance (novel)
+621 : ['Eando Binder'] : 1949 : Lords of Creation
+622 : ['Pat Conroy'] : 1980 : The Lords of Discipline
+623 : ['Nicole Mones'] : 1999 : Lost in Translation (novel)
+624 : ['Willa Cather'] : 1923 : A Lost Lady
+625 : ['Charles R. Jackson'] : 1944 : The Lost Weekend
+626 : ['Irene Hunt'] : 1976 : The Lottery Rose
+627 : ['Jamaica Kincaid'] : 1990 : Lucy
+628 : ['Alfred Kern'] : 1966 : Made in U.S.A.
+629 : ['Martha Barron Barrett'] : 1981 : Maggie's Way
+630 : ['Phillip Bonosky'] : 1961 : The Magic Fern
+631 : ['Booth Tarkington'] : 1918 : The Magnificent Ambersons
+632 : ['Lloyd C. Douglas'] : 1929 : Magnificent Obsession
+633 : ['David Sherman'] : 1987 : Main Force Assault
+634 : ['Dashiell Hammett'] : 1930 : The Maltese Falcon
+635 : ['Alex Haley'] : 1997 : Mama Flora's Family
+636 : ['Henry Russell Miller'] : 1910 : The Man Higher Up
+637 : ['W. Watts Biggers'] : 1968 : The Man Inside (novel)
+638 : ['Bruce Fairchild Barton'] : 1925 : The Man Nobody Knows
+639 : ['Marilyn Durham'] : 1972 : The Man Who Loved Cat Dancing
+640 : ['David Guy ', 'David Guy'] : 1983 : The Man Who Loved Dirty Books
+641 : ['Nelson Algren'] : 1949 : The Man with the Golden Arm
+642 : ['Irving Wallace'] : 1964 : The Man
+643 : ['Kyle Onstott'] : 1957 : Mandingo
+644 : ['John Dos Passos'] : 1925 : Manhattan Transfer (novel)
+645 : ['Sinclair Lewis'] : 1926 : Mantrap
+646 : ['Sherwood Anderson'] : 1923 : Many Marriages
+647 : ['Jane Hamilton'] : 1994 : A Map of the World
+648 : ['Eloise McGraw', 'Eloise Jarvis McGraw'] : 1953 : Mara, Daughter of the Nile
+649 : ['Sherwood Anderson'] : 1917 : ''Marching Men''
+650 : ['Lester Goran'] : 1962 : Maria Light
+651 : ['Philip K. Dick'] : 1987 : Mary and the Giant
+652 : ['Robert Anton Wilson'] : 1981 : Masks of the Illuminati
+653 : ['Sidney Sheldon'] : 1982 : Master of the Game
+654 : ['Walter D. Edmonds'] : 1941 : The Matchlock Gun
+655 : ['Norman Rush'] : 1991 : Mating
+656 : ['Stephen Wright ', 'Stephen Wright'] : 1983 : Meditations in Green
+657 : ['Clive Cussler'] : 1973 : The Mediterranean Caper
+658 : ['Jack Du Brul'] : 2000 : The Medusa Stone
+659 : ['Carson McCullers'] : 1946 : The Member of the Wedding
+660 : ['Sidney Sheldon'] : 1990 : Memories of Midnight
+661 : ['John Updike'] : 1992 : Memories of the Ford Administration
+662 : ['Harry Leon Wilson'] : 1919 : Merton of the Movies
+663 : ['James Michener'] : 1992 : Mexico
+664 : ['Nicholson Baker'] : 1988 : The Mezzanine
+665 : ['John Berendt'] : 1994 : Midnight in the Garden of Good and Evil
+666 : ['Chris Bohjalian'] : 1997 : Midwives
+667 : ['Charles McCarry'] : 1973 : The Miernik Dossier
+668 : ['James M. Cain'] : 1941 : Mildred Pierce
+669 : ['Paul Theroux'] : 1993 : Millroy the Magician
+670 : ['Robert R. McCammon'] : 1990 : Mine (novel)
+671 : ["Michael O' Malley"] : 1962 : Miners Hill
+672 : ['Harlan Coben'] :  : Miracle Cure
+673 : ['Danielle Steel'] :  : Mirror Image (novel)
+674 : ['Lemony Snicket '] : 2000 : The Miserable Mill
+675 : ['Nathanael West'] : 1933 : Miss Lonelyhearts
+676 : ['Zona Gale'] : 1920 : Miss Lulu Bett
+677 : ['Marguerite Young'] : 1965 : Miss MacIntosh, My Darling
+678 : [''] :  : Template:Mister Roberts
+679 : ['Thomas Heggen'] : 1946 : Mister Roberts
+680 : ['Chitra Banerjee Divakaruni'] : 1997 : The Mistress of Spices
+681 : ['Marguerite Henry'] : 1947 : Misty of Chincoteague
+682 : ['Richard Russo'] : 1986 : Mohawk
+683 : ['Henry Miller'] : 1992 : Moloch: or, This Gentile World
+684 : ['Arthur Hailey'] : 1975 : The Moneychangers
+685 : ['Lan Cao'] : 1997 : Monkey Bridge
+686 : ['Paula Fox'] : 1991 : Monkey Island (book)
+687 : ['Edward Abbey'] : 1975 : The Monkey Wrench Gang
+688 : ['B. S. Levy', 'Burt "B.S." Levy'] : 1999 : Montezuma's Ferrari
+689 : ['Carolyn Keene'] : 1963 : The Moonstone Castle Mystery
+690 : ['Laurie R. King'] : 1998 : The Moor
+691 : ['Saul Bellow'] : 1987 : More Die of Heartbreak
+692 : ['Sidney Sheldon'] : 1995 : Morning, Noon And Night
+693 : ['Helena Maria Viramontes'] : 1985 : The Moths and other stories
+694 : ['Kate Douglas Wiggin'] : 1911 : Mother Carey's Chickens (novel)
+695 : ['Rex Stout'] : 1963 : The Mother Hunt
+696 : ['Melinda Haynes'] : 1999 : Mother of Pearl
+697 : ['Pearl S. Buck'] : 1934 : The Mother (1934 novel)
+698 : ['Jean Stafford'] : 1947 : The Mountain Lion
+699 : ['Ross Macdonald'] : 1949 : The Moving Target
+700 : ['Simon', 'Schuster'] : 1979 : Moviola (novel)
+701 : ['Pat Frank'] : 1946 : Mr. Adam
+702 : ['August Derleth'] : 1968 : Mr. Fairlie's Final Journey
+703 : ['Lester Goran'] : 1985 : Mrs. Beautiful
+704 : ['Rachel Ingalls'] : 1982 : Mrs. Caliban
+705 : ['Edgar Rice Burroughs'] : 1921 : The Mucker
+706 : ['Gilbert Sorrentino'] : 1979 : Mulligan Stew
+707 : ['Elizabeth Peters'] : 1985 : The Mummy Case
+708 : ['Robert Goldsborough ', 'Robert Goldsborough'] : 1986 : Murder in E Minor
+709 : ['Bruce Cook', 'Bruce Alexander'] : 1995 : Blind Justice
+710 : ['Paul Auster'] : 1990 : The Music of Chance
+711 : ['Charles Nordhoff', 'James Norman Hall'] : 1932 : Mutiny on the Bounty
+712 : ['Marcia Davenport'] : 1954 : My Brother's Keeper (Davenport novel)
+713 : ['Daniel Quinn'] : 1997 : My Ishmael
+714 : ['Philip Roth'] : 1974 : My Life As a Man
+715 : ['Willa Cather'] : 1926 : My Mortal Enemy
+716 : ['Chaim Potok'] : 1972 : My Name Is Asher Lev
+717 : ['Jean Craighead George'] : 1959 : My Side of the Mountain
+718 : ['Ruth Ozeki', 'Ruth L. Ozeki'] : 1998 : My Year of Meats
+719 : ['Gore Vidal'] : 1968 : Myra Breckinridge
+720 : ['Michael Chabon'] : 1988 : The Mysteries of Pittsburgh
+721 : ['Mark Twain'] : 1916 : The Mysterious Stranger
+722 : ['Carolyn Keene'] : 1974 : Mystery of the Glowing Eye
+723 : ['Norman Mailer'] : 1948 : The Naked and the Dead
+724 : ['William S. Burroughs'] : 1959 : Naked Lunch
+725 : ['Isaac Asimov'] : 1957 : The Naked Sun
+726 : ['Don DeLillo'] : 1982 : The Names
+727 : ['Trisha R. Thomas'] : 2000 : Nappily Ever After: A Novel
+728 : ['William Boyd ', 'William Boyd'] : 1998 : Nat Tate: An American Artist 1928–1960
+729 : ['Richard Wright ', 'Richard Wright'] : 1940 : Native Son
+730 : ['Chang-Rae Lee'] : 1995 : Native Speaker
+731 : ['Bernard Malamud'] : 1952 : The Natural
+732 : ['Edgar Hilsenrath'] : 1971 : The Nazi and the Barber
+733 : ['Thomas Berger ', 'Thomas Berger'] : 1980 : Neighbors
+734 : ['Isaac Asimov'] : 1989 : Nemesis
+735 : ['John Kennedy Toole'] : 1989 : The Neon Bible
+736 : ['Mark Lindquist'] : 2000 : Never Mind Nirvana
+737 : ['Jerry Tschappat '] : 1956 : Never the Same Again
+738 : ['Bernard Malamud'] : 1961 : A New Life
+739 : ['David Sherman'] : 1988 : A Nghu Night Falls
+740 : ['Philip K. Dick'] : 1957 : Nicholas and the Higs
+741 : ['Carl Van Vechten'] : 1926 : Nigger Heaven
+742 : ['Armistead Maupin'] :  : The Night Listener
+743 : ['Spider Robinson'] : 1985 : Night of Power
+744 : ['Dalton Trumbo'] : 1979 : Night of the Aurochs
+745 : ['Robert B. Parker'] : 1997 : Night Passage
+746 : ['Clive Cussler'] : 1981 : Night Probe!
+747 : ['Laurie R. King'] : 2000 : Night Work
+748 : ['Isaac Asimov', ' Robert Silverberg'] : 1990 : Nightfall
+749 : ['Agnes Sligh Turnbull'] : 1960 : The Nightingale
+750 : ['William Lindsay Gresham'] : 1946 : Nightmare Alley
+751 : ['Djuna Barnes'] : 1936 : Nightwood
+752 : ['John Dickson Carr'] : 1952 : The Nine Wrong Answers
+753 : ['Doubleday ', 'Doubleday'] : 1942 : The Ninth Man
+754 : ['Irene Hunt'] : 1970 : No Promises in the Wind
+755 : ['James Clavell'] : 1981 : Noble House
+756 : ['Rudolph Wurlitzer'] : 1969 : Nog
+757 : [''] : 1982 : North and South (Jakes novel)
+758 : ['Charles Portis'] : 1966 : Norwood (novel)
+759 : ['drama film'] : 1955 : Not as a Stranger
+760 : ['Kathryn Hulme'] : 1956 : The Nun's Story
+761 : ['Laurie R. King'] : 1999 : O Jerusalem
+762 : ['Willa Cather'] : 1913 : O Pioneers!
+763 : ['Elie Wiesel'] : 1973 : The Oath
+764 : ['Pulitzer Prize'] : 1991 : Object Lessons (novel)
+765 : ['Frank Norris'] : 1901 : The Octopus: A Story of California
+766 : ['Michael Crichton', 'John Lange'] : 1966 : Odds On
+767 : [''] :  : Template:Of Mice and Men
+768 : ['Thomas Wolfe'] : 1935 : Of Time and the River
+769 : ['Jack Ketchum'] : 1980 : Off Season (novel)
+770 : ['Freebie_marketing', 'Standard_Oil'] :  : Oil for the Lamps of China
+771 : ['Upton Sinclair'] : 1926 : Oil!
+772 : ['Ernest Hemingway'] : 1952 : '''The Old Man and the Sea'''
+773 : ['Edith Wharton'] : 1924 : Old New York (novel)
+774 : ['Myrtle Reed'] : 1909 : Old Rose and Silver
+775 : ['Allan Gurganus'] : 1989 : Oldest Living Confederate Widow Tells All
+776 : ['Judith Rossner'] : 1994 : Olivia (Judith Rossner novel)
+777 : ['James Oppenheim'] : 1912 : The Olympian: A Story of the City
+778 : ['Laura Ingalls Wilder'] : 1937 : On the Banks of Plum Creek
+779 : ['Jack Kerouac'] : 1957 : On the Road
+780 : ['John L. Parker Jr.'] : 1978 : Once a Runner
+781 : ['David Karp ', 'David Karp'] : 1953 : One
+782 : ['Torey L. Hayden'] : 1980 : One Child
+783 : ['Ken Kesey'] : 1962 : One Flew Over The Cuckoo's Nest
+784 : ['Willa Cather'] : 1922 : One of Ours
+785 : ['Joseph Krumgold'] : 1959 : Onion John
+786 : ['Elizabeth Berg ', 'Elizabeth Berg'] : 2000 : Open House
+787 : ['Cormac McCarthy'] : 1965 : The Orchard Keeper
+788 : [''] : 1905 : The Orchid (novel)
+789 : ['Judith Guest'] : 1976 : Ordinary People
+790 : ['Gail Brewer-Giorgio'] : 1977 : Orion (novel)
+791 : ['Tom Tryon', 'Thomas Tryon'] : 1971 : The Other
+792 : ['Sidney Sheldon'] : 1973 : The Other Side of Midnight
+793 : ['Philip Roth'] : 1971 : Our Gang
+794 : ['Sinclair Lewis'] : 1914 : Our Mr. Wrenn
+795 : ['Henry James'] : 1911 : The Outcry
+796 : ['Cormac McCarthy'] : 1968 : Outer Dark
+797 : ['Diana Gabaldon'] : 1991 : Outlander
+798 : ['Jane Roberts'] : 1995 : The Oversoul Seven Trilogy
+799 : ['Clive Cussler'] : 1983 : Pacific Vortex!
+800 : ['Vladimir Nabokov'] : 1962 : Pale Fire
+801 : ['Robert B. Parker'] : 1987 : Pale Kings and Princes
+802 : ['Robert B. Parker'] : 1993 : Paper Doll
+803 : ['Pete Dexter'] : 1995 : The Paperboy
+804 : ['Betina Krahn'] : 1989 : The Paradise Bargain
+805 : ['Lester Goran'] : 1960 : The Paratrooper of Mechanic Avenue
+806 : ['Christopher Morley'] : 1917 : Parnassus on Wheels
+807 : ['Mildred Savage'] : 1958 : Parrish
+808 : ['Nella Larsen'] : 1929 : Passing
+809 : ['Robert B. Parker'] : 1991 : Pastime
+810 : ['John Dickson Carr'] : 1956 : Patrick Butler for the Defence
+811 : ['Tom Clancy'] : 1987 : Patriot Games
+812 : ['Edward Lewis Wallant'] :  : The Pawnbroker
+813 : ['Catherine Ryan Hyde'] : 1999 : Pay It Forward
+814 : ['John Knowles'] : 1981 : Peace Breaks Out
+815 : ['Booth Tarkington'] : 1914 : Penrod
+816 : ['Booth Tarkington'] : 1916 : Penrod and Sam
+817 : ['Stephen Chbosky'] : 1999 : '''The Perks of Being a Wallflower'''
+818 : ['Gladys Schmitt'] : 1955 : The Persistent Image
+819 : ['Bruce Cook', 'Bruce Alexander'] : 1998 : Person or Persons Unknown
+820 : ['Edna Ferber'] : 1914 : Personality Plus (novel)
+821 : ['Grace Metalious'] : 1956 : Peyton Place
+822 : ['Cornell Woolrich'] : 1942 : Phantom Lady
+823 : ['Edward M. House', 'Edward Mandell House'] : 1912 : Philip Dru: Administrator: A Story of Tomorrow, 1920-1935
+824 : ['Karen Hesse'] : 1994 : Phoenix Rising (novel)
+825 : ['P. G. Wodehouse'] : 1917 : Piccadilly Jim
+826 : ['Jodi Picoult'] : 1995 : Picture Perfect
+827 : ['Randall Jarrell'] : 1954 : Pictures from an Institution
+828 : ['Barbara Kingsolver'] : 1993 : Pigs in Heaven
+829 : ['Philip K. Dick'] : 1948 : Pilgrim on the Hill
+830 : ['Anita Shreve'] : 1998 : The Pilot's Wife
+831 : ['Frank Norris'] : 1903 : The Pit
+832 : ['Josephine Herbst'] : 1933 : Pity Is Not Enough
+833 : ['Deborah Smith'] : 1997 : A Place to Call Home (novel)
+834 : ['Bruce R. Cordell'] : 2008 : Plague of Spells
+835 : ['Kent Haruf'] : 1999 : Plainsong
+836 : ['Marion Zimmer Bradley'] : 1962 : The Planet Savers
+837 : ['Percy Marks'] : 1924 : The Plastic Age
+838 : ['Joan Didion'] : 1970 : Play It as It Lays
+839 : ['Kurt Vonnegut'] : 1952 : Player Piano
+840 : ['Richard Powers'] : 2000 : Plowing the Dark
+841 : ['Jessie Redmon Fauset'] : 1929 : Plum Bun
+842 : ['Jos\xc3\xa9 Antonio Villarreal', 'Pocho'] :  : Pocho (novel)
+843 : ['Martin Cruz Smith'] : 1989 : Polar Star
+844 : [''] :  : Template:Pollyanna
+845 : ['Sherwood Anderson'] : 1920 : Poor White
+846 : ['DuBose Heyward'] : 1925 : Porgy
+847 : ['Philip Roth'] : 1969 : Portnoy's Complaint
+848 : ['Isaac Asimov', 'Robert Silverberg'] : 1992 : The Positronic Man
+849 : ['Annie Proulx'] : 1992 : Postcards
+850 : ['Carrie Fisher'] : 1987 : Postcards from the Edge
+851 : ['Alice Hoffman'] : 1995 : Practical Magic
+852 : ['Paule Marshall'] : 1983 : Praisesong for the Widow
+853 : ['Isaac Asimov'] : 1988 : Prelude to Foundation
+854 : ['Patricia Highsmith'] : 1952 : The Price of Salt
+855 : ['Richard Powers'] : 1988 : Prisoner's Dilemma
+856 : ['Erich Segal'] : 1995 : Prizes (novel)
+857 : ['Harry March', 'Dr. Harry March'] : 1934 : Pro Football: Its Ups and Downs
+858 : ['Barbara Kingsolver'] : 2000 : Prodigal Summer
+859 : ['Willa Cather'] : 1925 : The Professor's House
+860 : ['Eric Durchholz'] : 1999 : The Promise of Eden
+861 : [''] :  : The Promise of Joy
+862 : ['Chaim Potok'] : 1969 : The Promise
+863 : ['Robert Rimmer'] : 1968 : Proposition 31
+864 : ['Robert James Waller'] : 2004 : Puerto Vallarta Squeeze
+865 : ['Sapphire ', 'Sapphire'] : 1996 : Push
+866 : ['Philip K. Dick'] : 1985 : Puttering About in a Small Land
+867 : ['Cynthia Ozick'] : 1997 : The Puttermesser Papers
+868 : ['Henry Miller'] : 1956 : Quiet Days in Clichy
+869 : ['John Updike'] : 1990 : Rabbit At Rest
+870 : ['John Updike'] : 1981 : Rabbit is Rich
+871 : ['John Updike'] : 1971 : Rabbit Redux
+872 : ['John Updike'] : 1960 : Rabbit, Run
+873 : ['Alexander Cordell'] : 1963 : The Race of the Tiger
+874 : ['Kirk Douglas'] : 1988 : The Ragman's Son
+875 : ['Arturo Islas'] : 1984 : The Rain God: A Desert Tale
+876 : ['Esther Forbes'] : 1954 : Rainbow on the Road
+877 : ['Tom Clancy'] : 1998 : Rainbow Six
+878 : ['Ross Lockridge', ' Jr.'] : 1948 : Raintree County (novel)
+879 : ['Clive Cussler'] : 1976 : Raise the Titanic!
+880 : ['Jack Womack'] : 1995 : Random Acts of Senseless Violence
+881 : ['Robert T. Bakker'] : 1995 : Raptor Red
+882 : ['Sheri Reynolds'] : 1995 : The Rapture of Canaan
+883 : ['Saul Bellow'] : 2000 : Ravelstein
+884 : ['W. Somerset Maugham'] : 1944 : The Razor's Edge
+885 : ['Lori Bryant-Woolridge'] : 1999 : Read Between the Lies
+886 : ['Chester Himes'] : 1959 : The Real Cool Killers
+887 : ['Vladimir Nabokov'] : 1938 : The Real Life of Sebastian Knight
+888 : ['James P. Hogan ', 'James P. Hogan'] : 1995 : Realtime Interrupt
+889 : ['William Gaddis'] : 1955 : The Recognitions
+890 : ['Silas Weir Mitchell'] : 1909 : The Red City
+891 : ['Floyd Gibbons'] : 1929 : The Red Napoleon
+892 : ['Richard Bradford ', 'Richard Bradford'] : 1968 : Red Sky at Morning
+893 : ['Martin Cruz Smith'] : 1992 : Red Square
+894 : ['Tom Clancy'] : 1986 : Red Storm Rising
+895 : ['Edith Wharton'] : 1912 : The Reef (novel)
+896 : ['William Faulkner'] : 1962 : The Reivers
+897 : ['Hamilton Basso'] : 1929 : Relics and Angels
+898 : ['Agnes Sligh Turnbull'] : 1938 : Remember the End
+899 : ['A. E. Fisher'] : 1933 : Requiem
+900 : ['Hubert Selby Jr'] : 1978 : Requiem for a Dream
+901 : [''] : 2000 : The Rescue (Sparks novel)
+902 : ['Sherman Alexie'] : 1995 : Reservation Blues
+903 : ['William Shatner', '  Garfield Reeves-Stevens', 'Judith Reeves-Stevens'] : 1996 : The Return
+904 : ['John Edgar Wideman'] : 1987 : Reuben
+905 : ['William Bradford Huie'] : 1951 : The Revolt of Mamie Stover
+906 : ['Irwin Shaw'] : 1970 : Rich Man, Poor Man
+907 : ['Agnes Sligh Turnbull'] : 1974 : The Richlands
+908 : ['Frederick Manfred'] :  : Riders of Judgment
+909 : ['William T. Vollmann'] : 1994 : The Rifles
+910 : ['William Trautmann'] : 1922 : Riot
+911 : ['Carol Edgarian'] : 1994 : Rise the Euphrates
+912 : ['Margaret Deland'] : 1916 : The Rising Tide
+913 : ['T. C. Boyle'] : 1998 : Riven Rock
+914 : ['Appalachia'] : 1940 : River of Earth
+915 : ['Philip Jos\xc3\xa9 Farmer'] : 1983 : River of Eternity
+916 : ['Shirley Jackson'] : 1948 : The Road Through the Wall
+917 : ['Mildred D. Taylor'] : 1990 : The Road to Memphis
+918 : ['T. C. Boyle'] : 1993 : The Road to Wellville
+919 : ['Isaac Asimov'] : 1985 : Robots and Empire
+920 : ['Isaac Asimov'] : 1983 : The Robots of Dawn
+921 : ['Emily Prager'] : 1999 : Roger Fishbite
+922 : ['Agnes Sligh Turnbull'] : 1936 : The Rolling Years
+923 : ['Upton Sinclair'] : 1931 : Roman Holiday (novel)
+924 : ['Hubert Selby', ' Jr.'] : 1976 : The Demon
+925 : ['Hubert Selby', ' Jr.'] : 1971 : The Room
+926 : ['James Patterson'] : 2000 : Roses Are Red
+927 : ['William T. Vollmann'] : 2000 : The Royal Family
+928 : ['Suzy McKee Charnas'] : 1997 : The Ruby Tear
+929 : ['Rita Mae Brown'] : 1973 : Rubyfruit Jungle
+930 : ['Joan Didion'] : 1963 : Run, River
+931 : ['Farrar', ' Straus ', ' Giroux'] : 1991 : The Runaway Soul
+932 : ['Lee Child'] : 2000 : The Visitor
+933 : ['Philip Roth'] : 1995 : Sabbath's Theater
+934 : ['John Barth'] : 1982 : Sabbatical: A Romance
+935 : ['Faye Kellerman'] : 1987 : Sacred and Profane
+936 : ['Tony Hillerman'] : 1993 : Sacred Clowns
+937 : ['Clive Cussler'] : 1992 : Sahara
+938 : ['Ken Kesey'] : 1992 : Sailor Song
+939 : ['Toni Cade Bambara'] : 1980 : The Salt Eaters
+940 : ['Edna Ferber'] : 1941 : Saratoga Trunk
+941 : ['Robert Ludlum'] : 1971 : The Scarlatti Inheritance
+942 : ['Ellery Queen'] : 1953 : The Scarlet Letters
+943 : ['Alexandra Ripley'] : 1991 : Scarlett
+944 : ['Aleen Leslie'] : 1963 : The Scent of the Roses
+945 : ['Michael Crichton', 'John Lange'] : 1967 : Scratch One
+946 : ['Conrad Richter'] : 1936 : The Sea of Grass
+947 : ['Luke Rhinehart'] : 1993 : The Search for the Dice Man
+948 : ['Anne Tyler'] : 1975 : Searching for Caleb
+949 : ['Dominick Dunne'] : 1993 : A Season in Purgatory
+950 : ['James Leo Herlihy'] : 1971 : The Season of the Witch
+951 : ['Toby Olson'] : 1983 : Seaview (novel)
+952 : ['David Guy'] : 1985 : Second Brother
+953 : ['Walker Percy'] : 1980 : The Second Coming (Percy novel)
+954 : ['Carolyn Keene'] : 1931 : The Secret of Shadow Ranch
+955 : ['Donna Tartt'] : 1992 : The Secret History
+956 : ['Charles McCarry'] : 1977 : The Secret Lovers
+957 : ['James Redfield'] : 1999 : The Secret of Shambhala: In Search of the Eleventh Insight
+958 : ['Carolyn Keene'] : 1930 : ''The Secret of the Old Clock''
+959 : ['V. C. Andrews'] : 1984 : Seeds of Yesterday
+960 : ['F. Paul Wilson'] : 1994 : The Select
+961 : ['Augusten Burroughs'] : 2000 : Sellevision
+962 : ['John Edgar Wideman'] : 1983 : Sent for You Yesterday
+963 : ['William Styron'] : 1960 : Set This House on Fire
+964 : ['Irving Wallace'] :  : The Seven Minutes
+965 : ['Nicholas Meyer'] : 1974 : The Seven-Per-Cent Solution
+966 : ['Candace Bushnell'] : 1997 : Sex and the City
+967 : ['Robert Anton Wilson'] : 1973 : The Sex Magicians
+968 : ['Davis Grubb'] : 1966 : Shadow of My Brother
+969 : ['Sherry Garland'] : 1993 : Shadow of the Dragon
+970 : ['Isaac Bashevis Singer'] : 1957 : Shadows on the Hudson
+971 : ['Dean Koontz'] : 1973 : Shattered
+972 : ['Wally Lamb'] : 1992 : She's Come Undone
+973 : ['Harlan Coben'] : 2011 : Shelter
+974 : ['Paul Bowles'] : 1949 : The Sheltering Sky
+975 : ['Harold Bell Wright'] : 1907 : The Shepherd of the Hills
+976 : ['{{plainlist', ''] : 2009 : Sherlock Holmes' War of the Worlds
+977 : ['Shelby Foote'] : 1952 : Shiloh: A Novel
+978 : ['Katherine Anne Porter'] : 1962 : Ship of Fools
+979 : ['E. Annie Proulx'] : 1993 : The Shipping News
+980 : ['Clive Cussler'] : 1996 : Shock Wave
+981 : ['John Steinbeck'] : 1957 : The Short Reign of Pippin IV
+982 : [''] :  : Template:Show Boat
+983 : ['Edna Ferber'] : 1926 : Show Boat
+984 : ['Carl Hiaasen'] : 2000 : Sick Puppy
+985 : ['Armistead Maupin'] : 1987 : Significant Others
+986 : ['Thomas B. Costain'] : 1952 : The Silver Chalice
+987 : ['Richard Taylor Wiley'] : 1907 : Sim Greene and Tom the Tinker's Men
+988 : ['Robert Keable'] : 1927 : Simon Called Peter
+989 : ['Maya Angelou'] : 1949 : Singin' and Swingin' and Gettin' Merry Like Christmas
+990 : ['Chitra Banerjee Divakaruni'] : 1999 : Sister of My Heart (novel)
+991 : ['Mark Frost'] : 1995 : The Six Messiahs
+992 : ['Carl Hiaasen'] : 1989 : Skin Tight
+993 : ['Tom Robbins'] : 1990 : Skinny Legs and All
+994 : ['Ross Macdonald'] : 1973 : Sleeping Beauty
+995 : ["Madeleine L'Engle"] : 1945 : The Small Rain
+996 : ['Robert B. Parker'] : 1997 : Small Vices
+997 : ['Judy Blume'] : 1983 : Smart Women
+998 : ['Garson Kanin'] : 1980 : Smash
+999 : ["Stewart O'Nan"] : 1994 : Snow Angels (novel)
+1000 : ['David Guterson'] : 1994 : Snow Falling on Cedars
+1001 : ['Edna Ferber'] : 1924 : So Big (novel)
+1002 : ['Richard Brautigan'] : 1982 : So The Wind Won't Blow It All Away
+1003 : ['Mark Helprin'] : 1991 : A Soldier of the Great War
+1004 : ['Richard Wiley'] : 1987 : Soldiers in Hiding (novel)
+1005 : ['Cynthia Voigt'] : 1983 : A Solitary Blue
+1006 : ['Donald Harington'] : 1973 : Some Other Place. The Right Place.
+1007 : ['Ken Kesey'] : 1964 : Sometimes a Great Notion
+1008 : ['Edgar Rice Burroughs'] : 1917 : The Son of Tarzan
+1009 : ['Jodi Picoult'] : 1992 : Songs of the Humpback Whale
+1010 : ['Pearl S. Buck'] : 1932 : Sons
+1011 : ['William Styron'] : 1979 : Sophie's Choice
+1012 : ['Howard Fast'] : 1951 : Spartacus
+1013 : ['Wallace Stegner'] : 1976 : The Spectator Bird
+1014 : ['Harlan Ellison'] : 1961 : Spider Kiss
+1015 : ['Rex Beach'] : 1906 : The Spoilers (Beach novel)
+1016 : ['James Salter'] : 1967 : A Sport and a Pastime
+1017 : ['Thomas McGuane'] : 1969 : The Sporting Club
+1018 : ['Vin Packer'] : 1952 : Spring Fire
+1019 : ['Jon Hassler', "Jon Hassler's"] : 1977 : Staggerford
+1020 : ['Marion Zimmer Bradley'] : 1965 : Star of Danger
+1021 : ['Sidney Sheldon'] : 1992 : The Stars Shine Down
+1022 : ['Isaac Asimov'] : 1951 : ''The Stars, Like Dust''
+1023 : ['Christopher Stasheff'] : 1991 : <nowiki></nowiki> A Company Of Stars
+1024 : [''] :  : Template:State Fair
+1025 : ['Karen Rose Cercone'] : 1997 : Steel Ashes
+1026 : ['John Nichols ', 'John Nichols'] : 1965 : The Sterile Cuckoo
+1027 : ['Tom Robbins'] : 1980 : Still Life with Woodpecker
+1028 : ['Theodore Dreiser'] : 1947 : The Stolic
+1029 : ['John Edward Williams', 'John Williams'] : 1965 : Stoner
+1030 : ['Ursula Hegi'] : 1994 : Stones from the River
+1031 : ['Dow Mossman'] : 1972 : The Stones of Summer
+1032 : ['Thomas Sigismund Stribling'] : 1932 : The Store
+1033 : ['Daniel Quinn'] : 1996 : The Story of B
+1034 : ['Lee Falk'] :  : The Story of the Phantom: The Ghost Who Walks
+1035 : ['Owen Johnson ', 'Owen Johnson'] : 1912 : Stover at Yale
+1036 : ['Eleanor Cameron'] : 1956 : Stowaway to the Mushroom Planet
+1037 : ['Random House'] : 1997 : Straight Man
+1038 : ['Kathe Koja'] : 1994 : Strange Angels (novel)
+1039 : ['Blair Niles'] : 1931 : Strange Brother
+1040 : ['Lillian Smith ', 'Lillian Smith'] : 1944 : Strange Fruit
+1041 : ['Sidney Sheldon'] : 1976 : A Stranger in the Mirror
+1042 : ['Lester Goran'] : 1966 : The Stranger in the Snow
+1043 : ['James T. Farrell'] : 1932 : Studs Lonigan
+1044 : [''] : 1995 : Sudden Death (novel)
+1045 : ['John Saul'] : 1977 : Suffer the Children
+1046 : ['Tom Clancy'] : 1991 : The Sum of All Fears
+1047 : ['Edith Wharton'] : 1917 : Summer
+1048 : [''] :  : Summer of '42 (book)
+1049 : ['Sloan Wilson'] : 1958 : A Summer Place
+1050 : ['Chuck Palahniuk'] : 1999 : Survivor
+1051 : ['Carolyn Keene'] : 1981 : The Swami's Ring
+1052 : ['Donald Goines'] : 1974 : Swamp Man (novel)
+1053 : ['John Steinbeck'] : 1954 : Sweet Thursday
+1054 : ['Marion Zimmer Bradley'] : 1962 : The Sword of Aldones
+1055 : ['Amiri Baraka', 'LeRoi Jones'] : 1965 : The System of Dante's Hell
+1056 : ['Robert Cormier'] : 1965 : Take Me Where the Good Times Are
+1057 : ['Agatha Christie'] : 1948 : Taken at the Flood
+1058 : ['Patricia Highsmith'] : 1955 : The Talented Mr. Ripley
+1059 : ['Sherwood Anderson'] : 1926 : ''Tar: A Midwest Childhood''
+1060 : ['Bob Dylan'] : 1971 : Tarantula
+1061 : ['Charles McCarry'] : 1974 : The Tears of Autumn
+1062 : ['Ursula K. Le Guin'] : 2000 : The Telling
+1063 : ['Gloria Skurzynski'] : 1983 : The Tempering
+1064 : ['William Goldman'] : 1957 : The Temple of Gold
+1065 : ['Edward Lewis Wallant'] : 1963 : The Tenants of Moonbloom
+1066 : ['Joe Meno'] : 1999 : Tender as Hellfire
+1067 : ['Gary Paulsen'] : 1995 : The Tent
+1068 : ['Donald Hamilton'] : 1975 : The Terminators
+1069 : ['Peter T. King'] : 1916 : Terrible Beauty (novel)
+1070 : ['Mary Tappan Wright'] : 1904 : The Test
+1071 : ['John Grisham'] : 1999 : The Testament
+1072 : ['Harold Bell Wright'] : 1903 : That Printer of Udell's
+1073 : ['Sarah Dessen'] : 1996 : That Summer
+1074 : ['Donald Harington'] : 1975 : The Architecture of the Arkansas Ozarks
+1075 : [''] :  : Template:The Grapes of Wrath
+1076 : [''] :  : Template:The Jazz Singer
+1077 : ['Camille Cusumano', 'Camille J. Cusumano'] : 1999 : The Last Cannoli
+1078 : [''] :  : Template:The Maltese Falcon
+1079 : ['Sinclair Lewis'] : 1928 : The Man Who Knew Coolidge
+1080 : [''] :  : Template:The Painted Veil
+1081 : [''] :  : Template:The Poseidon Adventure
+1082 : [''] :  : Template:The Postman Always Rings Twice
+1083 : [''] :  : Template:The Secret Garden
+1084 : [''] :  : Template:The Shadow Over Innsmouth
+1085 : [''] :  : Template:The Spoilers
+1086 : [''] :  : Template:The Stepford Wives
+1087 : ['Suzy McKee Charnas'] : 2008 : ''The Vampire Tapestry''
+1088 : [''] :  : Template:The Virginian
+1089 : ['Sally Miller Gearhart'] : 1979 : The Wanderground
+1090 : ['Zora Neale Hurston'] : 1937 : Their Eyes Were Watching God
+1091 : ['Joyce Carol Oates'] : 1969 : Them
+1092 : ['Thornton Wilder'] : 1973 : Theophilus North
+1093 : ['Joan Brady ', 'Joan Brady'] : 1992 : Theory of War
+1094 : ['Gene Wolfe'] : 1988 : There Are Doors
+1095 : ['Upton Sinclair'] : 1922 : They Call Me Carpenter: A Tale of the Second Coming
+1096 : ['Horace McCoy'] : 1935 : They Shoot Horses, Don't They?
+1097 : ['Tony Hillerman'] : 1988 : A Thief of Time
+1098 : ['Elizabeth Enright'] : 1938 : Thimble Summer
+1099 : ['Robert B. Parker'] : 1995 : Thin Air
+1100 : ['Dashiell Hammett'] : 1934 : The Thin Man
+1101 : ['James Jones ', 'James Jones'] : 1962 : The Thin Red Line
+1102 : ['Samuel A. Schreiner', ' Jr.'] : 1975 : Thine Is the Glory
+1103 : ['William Goldman'] : 1967 : The Thing of It Is...
+1104 : ['Lily Brett'] : 1990 : Things Could be Worse
+1105 : ['Steve Lopez'] : 2006 : Third and Indiana
+1106 : ['Hal Bennett'] : 1979 : This Passionate Land
+1107 : ['Jane Smiley'] : 1991 : A Thousand Acres
+1108 : ['Richard Powers'] : 1985 : Three Farmers on Their Way to a Dance
+1109 : ['Olive Price'] : 1948 : Three Golden Rivers
+1110 : ['The Three Soldiers'] :  : Three Soldiers
+1111 : ['William Dean Howells'] : 1907 : Through the Eye of the Needle
+1112 : ['Walter Kirn'] : 1999 : Thumbsucker
+1113 : ['Christopher Morley'] : 1925 : Thunder on the Left
+1114 : ['Douglas Preston', '', 'Lincoln Child'] : 1998 : Thunderhead
+1115 : ['Richard P. Powell'] : 1968 : Tickets to the Devil
+1116 : ['Mitch Cullin'] : 2000 : Tideland
+1117 : ['Steven Pressfield'] :  : Tides of War
+1118 : ['John Barth'] : 1987 : The Tidewater Tales
+1119 : ['Kent Haruf'] : 1984 : The Tie That Binds (novel)
+1120 : ['Bharati Mukherjee'] : 1971 : The Tiger's Daughter
+1121 : ['Judith Krantz'] : 1989 : Till We Meet Again (Judith Krantz)
+1122 : ['James Robert Baker'] : 1993 : Tim and Pete
+1123 : ['Philip K. Dick'] : 1955 : A Time for George Stavros
+1124 : ['Richard Krawiec'] : 1986 : Time Sharing (novel)
+1125 : ['William Goldman'] : 1979 : Tinsel
+1126 : ['Frank McCourt'] : 1999 : ’Tis
+1127 : ['Theodore Dreiser'] : 1914 : The Titan
+1128 : ['Diane Hoh'] : 1998 : ''Titanic'': The Long Night
+1129 : ['John Steinbeck'] : 1933 : To a God Unknown
+1130 : ['David F. Dodge'] : 1952 : To Catch a Thief (novel)
+1131 : ['Georgia ', 'Georgia'] : 1990 : To Dance with the White Dog
+1132 : ['Ernest Hemingway'] : 1937 : To Have and Have Not
+1133 : ['Harper Lee'] : 1960 : To Kill a Mockingbird
+1134 : ['Laurie R. King'] : 1995 : To Play the Fool
+1135 : ['Jean Harlow'] : 1965 : Today is Tonight
+1136 : ["Tim O'Brien ", "Tim O'Brien"] : 1998 : Tomcat in Love
+1137 : ['Nero Wolfe'] : 1938 : Too Many Cooks
+1138 : ['Gale Wilhelm'] : 1938 : Torchlight to Valhalla
+1139 : ['T. C. Boyle'] : 1995 : Tortilla Curtain
+1140 : ['John Steinbeck'] : 1935 : Tortilla Flat
+1141 : ['John Updike'] : 1997 : Toward the End of Time
+1142 : ['Robin Cook ', 'Robin Cook'] : 1998 : Toxin
+1143 : ['James Gunn ', 'James Gunn'] : 2000 : The Toy Collector
+1144 : ['Sinclair Lewis'] : 1915 : The Trail of the Hawk
+1145 : ['Davis Grubb'] : 1965 : A Tree Full of Stars
+1146 : ['Conrad Richter'] : 1940 : The Trees (novel)
+1147 : ['Scott Anderson ', 'Scott Anderson'] : 1998 : Triage
+1148 : ['Alfred Kern'] : 1971 : The Trial of Martin Ross
+1149 : ['Gerald Vizenor'] : 1988 : The Trickster of Liberty
+1150 : ['Maxine Hong Kingston'] : 1990 : Tripmaster Monkey: His Fake Book
+1151 : ['Lee Child'] : 1999 : Tripwire
+1152 : ['Jack Kerouac'] : 1960 : Tristessa
+1153 : ['Henry Miller'] : 1934 : Tropic of Cancer
+1154 : ['Henry Miller'] : 1938 : Tropic of Capricorn
+1155 : ['Robert B. Parker'] : 1998 : Trouble in Paradise
+1156 : ['Nicholas Sparks'] : 2005 : True Believer (Sparks novel)
+1157 : ['Barbera Wersba'] : 1977 : Tunes for a Small Harmonica
+1158 : ['William H. Gass'] : 1995 : The Tunnel
+1159 : ['Kurt Andersen'] :  : Turn of the Century
+1160 : ['Jonathan Franzen'] : 1988 : The Twenty-Seventh City
+1161 : ['John Edgar Wideman'] : 1998 : Two Cities
+1162 : ['Velma Wallis'] : 1993 : Two Old Women: An Alaskan Legend Of Betrayal, Courage And Survival
+1163 : ['Isaac Asimov', 'Robert Silverberg'] : 1992 : The Ugly Little Boy (novel)
+1164 : ['Joe Quirk'] : 1998 : The Ultimate Rush
+1165 : ['Ben Ames Williams'] : 1953 : The Unconquered
+1166 : ['William Faulkner'] : 1938 : The Unvanquished
+1167 : ['Louis Bromfield'] : 1953 : Up Ferguson Way
+1168 : ['Bel Kaufman'] : 1965 : Up the Down Staircase
+1169 : ['David Brin'] : 1987 : The Uplift War
+1170 : ['Amanda Filipacchi'] : 1999 : Vapor
+1171 : ['Richard Condon'] : 1971 : The Vertical Smile
+1172 : ['Walter F. Murphy'] : 1979 : The Vicar of Christ (novel)
+1173 : ['Saul Bellow'] : 1947 : The Victim
+1174 : ['A. Manette Ansay'] : 1994 : Vinegar Hill
+1175 : ['Jeffrey Eugenides'] : 1993 : The Virgin Suicides
+1176 : ['Ellen Glasgow'] : 1913 : Virginia
+1177 : ['Caryl Rivers'] : 1984 : Virgins
+1178 : ['Kaye Gibbons'] : 1989 : A Virtuous Woman
+1179 : ['Davis Grubb'] : 1962 : The Voices of Glory
+1180 : ['Michael Connelly'] :  : Void Moon
+1181 : ['Jack Du Brul'] : 1998 : Vulcan's Forge
+1182 : ['Hal Bennett'] : 1974 : Wait Until The Evening
+1183 : ['Sheila Gordon'] : 1987 : Waiting for the Rain
+1184 : ['Paul Theroux'] : 1967 : Waldo (novel)
+1185 : ['Nelson Algren'] : 1956 : A Walk on the Wild Side
+1186 : ['Robert B. Parker'] : 1994 : Walking Shadow
+1187 : ['Ingrid Rimland'] : 1977 : The Wanderers
+1188 : ['Gloria D. Miklowitz'] : 1985 : The
+1189 : ['Warren Adler'] : 1981 : The War of The Roses
+1190 : ['Daniel Handler'] : 2000 : Watch Your Mouth
+1191 : ['John Dickson Carr'] : 1932 : The Waxworks Murder
+1192 : ['Ross Macdonald'] : 1951 : The Way Some People Die
+1193 : ['John Steinbeck'] : 1947 : The Wayward Bus
+1194 : ['Joyce Carol Oates'] : 1996 : We Were the Mulvaneys
+1195 : ['Thomas Wolfe'] : 1939 : The Web and the Rock
+1196 : ['William S. Burroughs'] : 1987 : The Western Lands
+1197 : ['Lewis Elliott Chaze', 'Elliott Chaze'] : 1969 : Wettermark
+1198 : ['J. F. Powers'] : 1988 : Wheat that Springeth Green
+1199 : ['Cynthia Rylant'] : 1982 : When I Was Young in the Mountains
+1200 : ['Hal Borland'] : 1963 : When the Legends Die
+1201 : ['Jimmy Buffett'] : 1992 : Where Is Joe Merchant?
+1202 : ['Billie Letts'] : 1995 : Where the Heart Is
+1203 : ['Howard Frank Mosher'] : 1978 : Where the Rivers Flow North
+1204 : ['Rex Stout'] : 1940 : Where There's a Will
+1205 : ['Sue Miller'] : 1999 : While I Was Gone
+1206 : ['Don DeLillo'] : 1985 : White Noise
+1207 : ['Robert Stuart Nathan'] : 1987 : The White Tiger
+1208 : ['James Ramsey Ullman'] : 1945 : The White Tower
+1209 : ['Lorrie Moore'] : 1994 : Who Will Run the Frog Hospital?
+1210 : ['Various'] : 1908 : The Whole Family
+1211 : ['Mitch Cullin'] :  : Whompyjawed
+1212 : ['Norman Mailer'] : 1967 : Why Are We In Vietnam?
+1213 : ['Alfred Kern'] : 1959 : The Width of Waters
+1214 : ['Judy Blume'] : 1978 : Wifey
+1215 : ['William Goldman'] : 1974 : Wigger
+1216 : ['Barry Gifford'] : 1990 : Wild at Heart (novel)
+1217 : ['Robert B. Parker'] :  : Wilderness (Parker novel)
+1218 : ['Sherwood Anderson'] : 1916 : Windy McPherson's Son
+1219 : ['Sherwood Anderson'] : 1919 : Winesburg, Ohio
+1220 : ['John Steinbeck'] : 1961 : The Winter of Our Discontent
+1221 : ["Flannery O'Connor"] : 1952 : Wise Blood
+1222 : ['John Updike'] : 1984 : The Witches of Eastwick
+1223 : ['Tom Clancy'] : 1993 : Without Remorse
+1224 : ['Maxine Hong Kingston'] : 1975 : ''The Woman Warrior: Memoirs of a Girlhood among Ghosts''
+1225 : ['Marilyn French'] : 1977 : The Women's Room
+1226 : ['Joyce Carol Oates'] : 1971 : Wonderland
+1227 : ['Jack Conroy'] : 1935 : A World to Win (Conroy novel)
+1228 : ['Stratemeyer Syndicate'] :  : X Bar X Boys
+1229 : ['Margaret Ayer Barnes'] : 1930 : Years of Grace
+1230 : ['Michael Dorris'] : 1987 : A Yellow Raft in Blue Water
+1231 : ['Tillie Olsen'] : 1974 : Yonnondio: From the Thirties
+1232 : ['Thomas Wolfe'] : 1940 : You Can't Go Home Again
+1233 : ['Joyce Carol Oates'] :  : You Must Remember This
+1234 : ['Richard Yates'] : 1984 : Young Hearts Crying
+1235 : ['James T. Farrell'] : 1932 : Young Lonigan
+1236 : ['James T. Farrell'] : 1934 : The Young Manhood of Studs Lonigan
+1237 : ['Herman Wouk'] : 1962 : Youngblood Hawke
+1238 : ['William Goldman'] : 1958 : Your Turn to Curtsy, My Turn to Bow
+1239 : ['Michael Crichton', 'John Lange'] : 1969 : Zero Cool
+1240 : ['Joyce Carol Oates'] : 1995 : Zombie
+1241 : [''] :  : Category:Novels by Jack London
+1242 : [''] :  : Category:Novels by Raymond Chandler
+1243 : [''] :  : Category:To Kill a Mockingbird
+Total novels : 1243
+Total titles found : 1244 : 1.0
+Total authors found : 1207 : 0.970257234727
+Total dates found : 1178 : 0.946945337621
