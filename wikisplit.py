@@ -6,7 +6,7 @@
 ## Version:       
 ## Author:        Zhicong Chen <zhicong.chen@changecong.com>
 ## Created at:    Fri Feb 21 23:21:17 2014
-## Modified at:   Thu Feb 27 20:26:23 2014
+## Modified at:   Mon Mar  3 16:35:26 2014
 ## Modified by:   Zhicong Chen <zhicong.chen@changecong.com>
 ## Status:        Experimental, do not distribute.
 ## Description:   A simple module to split the content that return by
@@ -30,6 +30,18 @@ class Split:
         self.__text = ''
         self.__category = []
 
+        self.__author_stop_words = [
+            "novel", "biographical novel", "debut novel", "book", "american novel", "novella",
+            "historical novel|historical fiction", "natural history|naturalist"
+            "united states|american", "united states", 
+            "african-american", "filipino-american", 
+            "writer",
+            "Southern literature|Southern",
+            "preserve and protect#come nineveh, come tyre",
+            "anti-war", "world war", "world war i", "world war ii",
+            "propaganda", "various", "various"
+            ]
+
         if not content:
             raise wiki.WikiError("No content is given!")
 
@@ -41,6 +53,20 @@ class Split:
 
         # get book's info
         self.__get_infobox_book()
+
+        # check if all flieds contains
+        if not self.__book.has_key('author'):
+            
+            # try to get info form the brief introduction
+            brief_intro = self.__first_paragraph(self.__content)
+            authors = self.__get_authors_from_content(brief_intro)
+            self.__book['author'] = authors
+
+        if not self.__book.has_key('release_date') and not self.__book.has_key('pub_date'):
+            # try to get info form the brief introduction
+            brief_intro = self.__first_paragraph(self.__content)
+            self.__book['release_date'] = self.year(brief_intro)
+
 
         # get text of the wiki page
         self.__get_text()
@@ -60,11 +86,17 @@ class Split:
 
     def year(self, date=False):
         if not date:
-            raise wiki.WikiError("No year is given!")       
+            # raise wiki.WikiError("No year is given!")       
+            return ""
 
-        p_year = re.compile('\d{4}')
-        
-        return p_year.search(date).group()
+        p_year = re.compile('(19|20)\d{2}')  # 1900 - 
+
+        year = p_year.search(date)
+
+        if not year:
+            return ""  # not NA
+        else:
+            return year.group() 
 
     def category(self, categories=False):
         '''
@@ -89,8 +121,11 @@ class Split:
 
         authors = re.sub(r'\(.*\)', '', authors)
         authors = re.sub(r'with', '', authors)
+        # authors = re.sub(r'\&', '', authors)
 
-        return re.split('\||\<br\>|,', authors)
+        # print authors
+
+        return re.split('\||\<br\s*\/?\>|,|\&| and |#', authors)
 
     def cleanup(self, string=False):
 
@@ -259,6 +294,38 @@ class Split:
 
         self.__text = self.__text_only(self.__content)
 
+    def __first_paragraph(self, content=False):
+
+        # remove [[Category:]]
+        p_category = re.compile('\[\[Category:.*]]')  # category
+        content = p_category.sub('', content)
+        
+        # remove comments
+        p_comments = re.compile('\<!--[^\>]*--\>')
+        content = p_comments.sub('', content)
+
+        # content = re.sub(r'^\n|\n+(?=\n)|\n$', r'', content)        
+
+        # remove templates
+        p_template = re.compile('\{{2,}[^\{\}]+\}{2,}')
+        content = p_template.sub('', content)
+     
+        content = p_template.sub('', content)
+
+        # remove images
+        p_image = re.compile('\[\[Image:.*]]')
+        content = p_image.sub('', content)
+
+        content = content.strip('\n ')
+
+        # print content
+        
+
+        # get the first line
+        first_line = re.split(r'\n', content)[0]
+
+        return first_line
+
         
     def __text_only(self, content=False):
 
@@ -304,4 +371,27 @@ class Split:
         content = p_reference_left.sub('', content)
         content = p_reference_right.sub('', content)
 
-        return content.strip('\n')
+        return content.strip('\n ')
+
+    def __get_authors_from_content(self, intro):
+
+        # find all external links in the intro 
+        external_links = re.findall(r'\[\[[^\[\]]*\]\]', intro)
+        
+        for link in external_links:
+            
+            # print link
+
+            link = re.sub(r'[\[\]\{\}]', '', link)
+
+            # not in the stop words
+            if str.lower(link) not in self.__author_stop_words:
+
+                # not contain numbers
+                if not re.match(r'.*(\d+|author|novel|fiction|literature|united states|american|new york|florida|chicago|preserve|protect)', str.lower(link)):
+                
+                    return link
+        
+        
+        return ""
+
