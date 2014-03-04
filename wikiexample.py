@@ -7,7 +7,7 @@
 ## Version:       
 ## Author:        Zhicong Chen <zhicong.chen@changecong.com>
 ## Created at:    Thu Feb 27 09:53:29 2014
-## Modified at:   Mon Mar  3 17:20:56 2014
+## Modified at:   Mon Mar  3 22:44:27 2014
 ## Modified by:   Zhicong Chen <zhicong.chen@changecong.com>
 ## Status:        Experimental, do not distribute.
 ## Description:   an example
@@ -51,7 +51,7 @@ total_author = 0;
 total_date = 0;
 total_title = 0;
 
-text = open('noval_stat.txt', 'w')
+# text = open('noval_stat.txt', 'w')
 for page in pages:
 
     book.clear()
@@ -67,14 +67,14 @@ for page in pages:
         '''    
 
         # print content
-        # print c
+        print c
         book_info = split.book()
 
         # print book_info
 
-        book['title'] = book_info.get('name', '')
-        if book['title'] == "" :
-            book['title'] = page.title
+        # book['title'] = book_info.get('name', '')
+        # if book['title'] == "" :
+        book['title'] = page.title
 
         if book['title'] != "":
             total_title = total_title + 1
@@ -96,7 +96,7 @@ for page in pages:
 
         line = str(c) + " : " + str(book['author']).encode('utf-8') + " : " + book['publication_date'].encode('utf-8') + " : " + book['title'].encode('utf-8')
 
-        text.write(line + '\n')
+        # text.write(line + '\n')
 
         # print split.book()
         # book['categories'] = split.category(page.getCategories())
@@ -118,10 +118,10 @@ print "Total titles found : " + str(total_title) + " : " + str(total_title/float
 print "Total authors found : " + str(total_author) + " : " + str(total_author/float(c))
 print "Total dates found : " + str(total_date) + " : " + str(total_date/float(c))
 
-text.write("Total novels : " + str(c-1) + '\n')
-text.write("Total titles found : " + str(total_title) + " : " + str(total_title/float(c)) + '\n')
-text.write("Total authors found : " + str(total_author) + " : " + str(total_author/float(c)) + '\n')
-text.write("Total dates found : " + str(total_date) + " : " + str(total_date/float(c)) + '\n')
+# text.write("Total novels : " + str(c-1) + '\n')
+# text.write("Total titles found : " + str(total_title) + " : " + str(total_title/float(c)) + '\n')
+# text.write("Total authors found : " + str(total_author) + " : " + str(total_author/float(c)) + '\n')
+# text.write("Total dates found : " + str(total_date) + " : " + str(total_date/float(c)) + '\n')
 
 
-text.close()
+# text.close()
